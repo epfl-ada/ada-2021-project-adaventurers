@@ -1,8 +1,9 @@
 
 import pandas as pd
 import numpy as np
+import random as rd
 
-def data_loader(path,limit=0,chunksize_=10000):
+def data_loader(path,limit=0,chunksize_=10000,thrs = 100000):
     """ Description: this function will load data for each file and specified path
 
         Parameters:
@@ -31,6 +32,7 @@ def data_loader(path,limit=0,chunksize_=10000):
 
         # Keep track of progression
         if limit!=0 and (i/limit%0.1<eps):
+            # Chunk loading
             print(f"    Loading... {i/limit*100:.2f} %")
 
     # Initialize the DataFrame columns with first chunk
@@ -44,10 +46,41 @@ def data_loader(path,limit=0,chunksize_=10000):
         if i>=limit and limit!=0:
             break
 
-    clean_data(df_quotes)
+
+    df_quotes = clean_data(df_quotes)
+
+    df_quotes = consistency(df_quotes,thrs)
+
     print(f"Number of quotes loaded in {path}:", len(df_quotes))
 
     return df_quotes
+
+
+def consistency(df_quotes, thrs):
+
+    sizes = data_by_month(df_quotes)
+
+    for i,size_month in enumerate(sizes):
+        limit_quotes = thrs
+        
+        if size_month > limit_quotes:
+
+            n_to_drop = size_month-limit_quotes
+            index_ = df_quotes[df_quotes.date.dt.month == i+1].index
+            index_to_drop = rd.sample(list(index_.values),k=n_to_drop)
+            df_quotes.drop(index_to_drop,inplace=True)
+
+    return df_quotes
+
+def data_by_month(df_quotes):
+
+    size = []
+    for month in range(1,13):
+        df_month = df_quotes[df_quotes.date.dt.month == month]
+        size.append(len(df_month))
+
+
+    return size
 
 
 def clean_data(data):
@@ -70,14 +103,4 @@ def clean_data(data):
     # Drop columns: phase and qids that are not of interest to us
     data.drop(columns=['phase','qids'])
 
-
-def get_slice(df_quotes,month,start_date=-1,end_date=32):
-
-
-    df_quotes.sort_values(by=['date'], inplace=True, ascending=True)
-
-    ##### IMPORTANT: we take only a subset of quotes for a given time window
-    df_quotes = df_quotes[df_quotes.date.dt.month == month] # The 2016 United States elections were held on Tuesday, November 8, 2016, let's look around this period (this month)
-    df_quotes = df_quotes[df_quotes.date.dt.day <= 30]
-    df_quotes = df_quotes[df_quotes.date.dt.day >= 0]
-    return df_quotes
+    return data

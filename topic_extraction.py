@@ -5,7 +5,12 @@ import pandas as pd
 #--------------------------------------------------------#
 # Initialize
 
-files_to_load = "quotes-2015.json.bz2"
+year = 2016
+limits = 8
+chunk_ =  100
+threshold = 100000
+
+files_to_load = f"quotes-{year}.json.bz2"
 data_year = pd.DataFrame()
 
 #--------------------------------------------------------#
@@ -13,7 +18,7 @@ data_year = pd.DataFrame()
 
 print("\nBeginning: Loading File\n")
 
-data_year = data_loader("data/"+files_to_load, limit = 10, chunksize_ = 190)
+data_year = data_loader("data/"+files_to_load, limit = limits, chunksize_ = chunk_,thrs = threshold)
 
 print("Done: Loading File\n")
 
@@ -46,8 +51,8 @@ print("\nDone: Bert Topic Analysis\n")
 # Saving Topics
 
 print("Saving Data:")
-data_year.to_pickle(f"results/bertopic/2015_quotes_with_topics_{len(data_year)}.pkl")
-topic_list.to_pickle(f"results/bertopic/2015_topics_by_month_{len(data_year)}.pkl")
+data_year.to_pickle(f"results/bertopic/{year}_quotes_with_topics_{len(data_year)}.pkl")
+topic_list.to_pickle(f"results/bertopic/{year}topics_by_month_{len(data_year)}.pkl")
 print("Done savings Data")
 
 #--------------------------------------------------------#
