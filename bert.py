@@ -3,20 +3,6 @@
 # Useful for chronological ordering
 from datetime import datetime, date ,time
 
-# Exploratory Analysis
-from wordcloud import WordCloud , STOPWORDS
-
-#To do initial data handling
-from gensim.utils import simple_preprocess
-import nltk
-nltk.download('stopwords')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('punkt')
-from nltk.corpus import stopwords
-
-# Import sentence transformer
-from sentence_transformers import SentenceTransformer
-
 # bertopic
 from bertopic import BERTopic
 
