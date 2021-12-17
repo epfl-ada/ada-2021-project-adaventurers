@@ -43,10 +43,10 @@ To answer the second question, and so to perform sentiment analysis, we used a [
 
 ## 3. Individual contributions: <a class="anchor" id="4"></a>
 
-- Lucas Brunschwig: data creation, notebook manager, topic extraction and analysis
+- Lucas Brunschwig: data processing, notebook manager, topic extraction and analysis
 - Ioannis Mavrothalassitis: sentiment analysis
 - Axelle Piguet: time-line creation 
-- Ester Simkova: website creation, help with topic extraction and sentiment analysis
+- Ester Simkova: website creation, help with topic extraction and analysis and sentiment analysis
 
 
 
