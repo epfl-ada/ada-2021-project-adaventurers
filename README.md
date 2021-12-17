@@ -15,6 +15,7 @@ The ADAventurers - Lucas Brunschwig, Ioannis Mavrothalassitis, Axelle Piguet, Es
 3. [Individual contributions](#4)
 4. [Repository Organisation](#5)
 5. [Additional Data](#6)
+6. [How to use the repository](#7)
 
 ## 0. Abstract: <a class="anchor" id="1"></a>
 
@@ -70,3 +71,6 @@ The first part of the notebook is used to generate the topics classification fro
 #### Processed Data
 The second part of the notebook should be run with the processed data. Each year consists of 2 files, one with the topics and their definition (xxxx_topics_by_month) and one with the quotes associated with the topic number and the probability to be associated to the same topic (xxxx_quotes_with_topic). These data needs to be put in the results folder inside a folder called "bertopic". They can be found [here](https://drive.google.com/drive/folders/1NuLnwk5nhxyMmiGOKBniL6AWK3uuE0cd?usp=sharing).
 
+## 6. How to use the repository: <a class="anchor" id="7"></a>
+
+To run the topic and sentiment analysis, you should run the jupyter notebook [Adaventurers-Project:](https://github.com/epfl-ada/ada-2021-project-adaventurers/blob/master/Adaventurers-Project.ipynb) and create the data and result folders as explained above.
