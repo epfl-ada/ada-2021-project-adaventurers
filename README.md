@@ -16,16 +16,11 @@ The ADAventurers - Lucas Brunschwig, Ioannis Mavrothalassitis, Axelle Piguet, Es
 
 ## 0. Abstract: <a name="1"></a>
 
-Our project goals are two-fold:
-
-- First, we would like to use the quotes from 2015 to 2020 in the QuoteBank dataset to create a time-line of major events that occurred in the world during this period. We plan on doing this by finding some “hot topics” emerging from the quotes. Once we have created the time-line, we will compare it to an external time-line and see if it corresponds.
-- Then, once we have created this time-line of events, we would like to do a sentiment analysis on the quotes regarding a certain topic before and after an event occurred, to see if the general sentiment changes, in general and in the country where the event occured. We are not fixed on a topic nor event for now, since we have to see which events emerge from the time-line.
-
 The motivation behind the project is to be able to see if quotes in newspapers are really representative of the events happening in the world and how an event highly covered in the news can shift the sentiment regarding its domain.
 
 ## 1. Research Questions: <a name="2"></a>
 
-As said above, our research questions are the following:
+Our research questions are the following:
 
 1. Are newspapers’ quotes representative of events occurring in the world ? Meaning, can we deduce a time-line of important events that happened in the world during a certain time-frame only from topics emerging from newspaper quotes ?
 2. When an important event occurs, does the general sentiment from quotes regarding the topic evolve ? We will take a more concrete example of an event when we have our re-created time-line.
