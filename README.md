@@ -1,5 +1,7 @@
-# Creation of a time-line of events from 2015 to 2020 using the QuoteBank dataset and subsequent sentiment analysis of quotes before and after a certain event occurred
+# Creating an event time-line from 2015 to 2020 using only newspaper quotes
 
+
+## The data story website: **https://estersimkova.github.io/ADAventurers_proj/**
 
 ## Authors
 
@@ -9,10 +11,8 @@ The ADAventurers - Lucas Brunschwig, Ioannis Mavrothalassitis, Axelle Piguet, Es
 
 0. [Abstract](#1)
 1. [Research Questions](#2)
-2. [Proposed additional datasets](#3)
-3. [Methods](#4)
-4. [Proposed project timeline](#5)
-4. [Questions for the TAs](#6)
+2. [Methods](#3)
+3. [Individual contributions](#4)
 
 ## 0. Abstract: <a name="1"></a>
 
@@ -30,65 +30,24 @@ As said above, our research questions are the following:
 1. Are newspapers’ quotes representative of events occurring in the world ? Meaning, can we deduce a time-line of important events that happened in the world during a certain time-frame only from topics emerging from newspaper quotes ?
 2. When an important event occurs, does the general sentiment from quotes regarding the topic evolve ? We will take a more concrete example of an event when we have our re-created time-line.
 
-## 2. Proposed additional datasets: <a name="3"></a>
 
-- To do the first part of the project (create the time-line of events), we only need the quotes and so no external data-set is needed, apart from the external time-line of events that happened in the world during this years, as mentioned below in the methods section.
-- Regarding the second part of the project, we could take the Wikidata dataset and extract the speakers’ nationalities for quotes on a certain topic, to see how the sentiment change varies according to the country. However, we did not focus on this part yet since the first part is expected to be time-consuming and this would only be a refinement of the results.
+## 2. Methods: <a name="3"></a>
 
-## 3. Methods: <a name="4"></a>
+#### Finding topics from quotes
 
+The Quotebank dataset provides more than 100 millions quotes over 12 years. We decided to focus on the years 2015-2020. For each of these years, we selected a maximum of 100’000 quotes each month. Then, we used the NLP (natural language processing) model [BERTopic](https://github.com/MaartenGr/BERTopic) to extract the topics and associate each quote to a specific topic with a given probability. Using the 20 monthly hottest topics, meaning the ones that have the most quotes associated with them, we looked into the quotes associated with the topic with the most probability.
+Using this information, we chose for each month the most meaningful topics to be kept.
+Then, we created a script to visually represent the chosen topics on a time-line for every year.
 
-The methods to do our project will be the following:
+#### Analysing the sentiment change before and after an event
 
-- Regarding the first part, so the time-line creation, we are going to follow the following pipe-line:
-
-1. Identification of events
-	1. To identify events, we have to first regroup quotes into topics. To do that, we will follow the Latent Dirichlet Allocation method using [the following tutorial](https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0), suggested by our TA.
-We do this by selecting an appropriate time window, for example one month, to see the topics that emerge during this timeframe during the years 2015-2020.
-	2. Once we have a list of topics for each time-period, we choose a frequency threshold and only consider topics that appear in the newspaper at a frequency above this frequency threshold as a significant event. 
-Our hypothesis would be that if a topic becomes hot beyond a certain frequency threshold (i.e. very often mentioned in a time window), it is probably related to an event having occurred. However, if a certain topic is present in almost all of the time windows, it is probably a general society preoccupation and is probably not related to a particular event, so we would have to take note of that and only look at the monthly frequency variation.
-	3. Manual research: We then check if no major events were forgotten and, to do so, find a database that relates major events of each year and see if we accurately found the majority. This step will help us to validate our timeline (and by doing so, our research hypothesis) and be sure that it does not have too much bias.
-External time-line: for instance, the [CNBC website](https://www.cnbc.com/2015/12/31/major-global-events-that-shook-2015.html) (here for 2015) relates the major events that happened during each calendar year.
-
-2. Creation of the time-line
-
-	1. To create the time-line, we suggest the following format:
-		- name of the event
-		- time when it happened - if there is no definite time, we approximate
-		- time it was mentioned for the first time in a newspaper (in 2015-2020)
-		- last time it was mentioned (in 2015-2020)
-		- number of times it was mentioned
-		- list of newspapers and quotes on the topic chronologically
+To answer the second question, and so to perform sentiment analysis, we used a [fine-tuning algorithm for BERT](https://skimai.com/fine-tuning-bert-for-sentiment-analysis/), training the BERT sentiment classifier with data from Twitter - using 1700 complaining (negative sentiment) and 1700 non-complaining (positive sentiment) tweets. We then passed our quotes, previously regrouped into topics by BERTopic, into the trained BERT sentiment classifier and observed the evolution in percentage of positive vs negative quotes regarding a certain topic, before and after certain events occurred.
 
 
-	2. Create a graphical representation of the timeline:
-    
-	This remains to be defined according to the topic/event we decide to focus on depending on the obtained time-line.
+## 3. Individual contributions: <a name="4"></a>
 
-
-- Regarding the second part, so the sentiment analysis, if time allows it, we are going to follow the following pipe-line:
-
-3. Sentiment analysis 
-
-	1. First we will have to select a topic on which to focus and an event that occurred somewhere during the time period 2015-2020. 
-	2. Then, we can take all the quotes related to this topic before and after the event occurred, using for example a time-frame of one month and analyse the sentiment of each quote using a sentiment analysis [API from Google](https://cloud.google.com/natural-language/docs/analyzing-sentiment#language-sentiment-string-python)
-	3. We would then analyse the general sentiment regarding the topic at different time points (ex: every 3 days) for example in the periods one month before and one month after the event and see if it changes over time. To find the general sentiment, we can simply take the % of positively-labeled quotes over the defined time frame (ex: 3 days).
-	4. The last step would be to do a visualisation of this sentiment analysis, to be clarified depending on the chosen topic.
-	
-## 4. Proposed project timeline: <a name="5"></a>
-
-
-We have from November 26th until December 17th to work on Milestone 3 of the project. 
-During these 3 weeks, we will:
-
-- Allocate the first 2 weeks to the first part: the quotes classification into topics and the time-line creation, since it is the task that takes the most time. 
-- During the last week, we will do sentiment analysis on quotes about one topic before and after one particular event occurring using the Google API. 
-
-During this whole time, we will also progressively create the required website to show our results.
-	
-## 5. Questions for the TAs: <a name="6"></a>
-
-We were wondering if you had any advice about how to improve our method of finding topics from quotes ? It is quite hard to infere events occuring from our LDA analysis for now.
-
-
+- Lucas Brunschwig: data creation, notebook manager, topic extraction and analysis
+- Ioannis Mavrothalassitis: sentiment analysis
+- Axelle Piguet: time-line creation 
+- Ester Simkova: website creation, help with topic extraction and sentiment analysis
 
