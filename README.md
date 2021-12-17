@@ -77,4 +77,4 @@ The second part of the notebook should be run with the processed data. Each year
 ## 6. How to use the repository: <a class="anchor" id="7"></a>
 
 To run the topic and sentiment analysis, you should run the jupyter notebook [Adaventurers-Project](https://github.com/epfl-ada/ada-2021-project-adaventurers/blob/master/Adaventurers-Project.ipynb) and create the data and result folders as explained above.
-If you want to do topic extraction, you can use the folder [topic_extraction.py:](https://github.com/epfl-ada/ada-2021-project-adaventurers/blob/master/topic_extraction/topic_extraction.py) .
+If you want to do topic extraction, you can use the folder [topic_extraction.py](https://github.com/epfl-ada/ada-2021-project-adaventurers/blob/master/topic_extraction/topic_extraction.py).
