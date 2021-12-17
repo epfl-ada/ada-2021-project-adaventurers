@@ -64,9 +64,9 @@ Main_branch:
 
 The notebook is made to be ran with two types of data if you want to run it entirely. 
 
-### Raw Data
+#### Raw Data
 The first part of the notebook is used to generate the topics classification from the raw data with bertopic (cf. above). if you. You can load the quotes-xxxx.json.bz2 on [here](https://zenodo.org/record/4277311#.Ybz7l2jMJPY) and should be put in a folder called "data" in the main repository
 
-### Processed Data
+#### Processed Data
 The second part of the notebook should be run with the processed data. Each year consists of 2 files, one with the topics and their definition (xxxx_topics_by_month) and one for the quotes associated with the topic number and the probability to be associated to the same topic (xxxx_quotes_with_topic). These data needs to be put in the results folder inside a folder called "bertopic". They can be found [here](https://drive.google.com/drive/folders/1NuLnwk5nhxyMmiGOKBniL6AWK3uuE0cd?usp=sharing)
 
