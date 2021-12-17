@@ -1,0 +1,18 @@
+Topics of interests:
+
+
+Words: ['israel', 'israeli', 'palestinian']
+2015: [276, 228, 360, 183, 203, 225, 194, 484, 180, 177, 201, 136]
+
+Words: ['students', 'school', 'education', 'schools']
+2015: [1581, 1214, 1260, 1347, 1155, 1181, 1283, 1362, 1304, 1862, 1365, 1380]
+
+Words: ['donald', 'trump', 'candidates']
+2015: [0, 115, 0, 132, 561, 337, 901, 220, 812, 157, 150, 903]
+
+Words: ['attack', 'terrorism']
+2015: [270, 0, 0, 0, 130, 0, 0, 0, 0, 0, 757, 165]
+
+Words: ['film', 'movie', 'films', 'movies']
+2015: [576, 353, 427, 344, 320, 187, 530, 429, 250, 489, 260, 814]
+

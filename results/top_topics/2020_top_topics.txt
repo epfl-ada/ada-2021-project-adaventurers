@@ -1,0 +1,872 @@
+#------------------------------------# 
+Month 1 
+
+Words associated to topic 0: 
+[list([('music', 0.02010646049562375), ('songs', 0.014187465985638349), ('song', 0.013154144939640807), ('album', 0.010631362036977642), ('band', 0.0067764932495687135), ('guitar', 0.005021866164817904), ('musical', 0.004626755306013038), ('sing', 0.004535733460400096), ('bands', 0.004214944218331667), ('record', 0.004001092674797806)])]
+
+Top quotes associated to the same topic: 
+quote 0: You are a Universe of Universes And your Soul a source of Songs.
+quote 1: It just poured out. This was the first time that I was writing not for pop or dance. It goes deeper, into a different place. The event drove the music. It was a really good way of [ using ] a traumatic event [ and ] making something really beautiful out of something horrible.
+quote 2: Basically we just found what people liked, what they didn't like, and changed our music based on that.
+quote 3: So I just found out that my album is neck to neck with another incredible artist. I told people before that, you know, it's not about numbers for me, but I would love for the most important album I've ever released to become number one, so if you don't mind streaming it or listening to it on all the platforms, it would mean the absolute world to me.
+quote 4: Mr. Evans' ADA complaints were reviewed by the appropriate TDOT and Federal Highway Administration personnel and revisions were made to the plans and approved by FHWA. These issues have been resolved and no further complaints have been received from Mr. Evans to date. Grades, slopes, and access to properties have been designed according to current standards used statewide and coupled with the road improvements will increase safety along the route.
+
+
+Words associated to topic 1: 
+[list([('students', 0.020149855545928616), ('school', 0.015285128981292964), ('education', 0.014974575810241432), ('schools', 0.0145851177305987), ('teachers', 0.009973327970187908), ('university', 0.007660507544302914), ('student', 0.0073659836304147235), ('universities', 0.0064970858850129844), ('college', 0.006496851877439127), ('teacher', 0.004446773259250167)])]
+
+Top quotes associated to the same topic: 
+quote 0: The responses from Strive for Five have been great. Students recognize the language and goal of having less than five absent days during the year,
+quote 1: Trump and his cronies are sabotaging public education because it's not their children who go to public school at every step,
+quote 2: That is the faculty's greatest concern, and it will be disruptive to their educational experience. There's no way around it, because now we have two days shorter to present the information that is spread over a set number of weeks and a set number of days.
+quote 3: success in creating public awareness and roping in teachers, students and businessmen
+quote 4: world-class Capture and Conversion Institute in Richmond
+
+
+Words associated to topic 2: 
+[list([('health', 0.019184730690437423), ('patients', 0.015733669989334505), ('care', 0.014979483774282544), ('hospital', 0.013155673979461586), ('healthcare', 0.0112342596616389), ('medicaid', 0.009811746065756551), ('medical', 0.00887846137040361), ('patient', 0.007483736548029847), ('hospitals', 0.007258779408043834), ('nurses', 0.006777045396182573)])]
+
+Top quotes associated to the same topic: 
+quote 0: One-On-One With Trump's Medicare And Medicaid Chief: Seema Verma,
+quote 1: So we can really learn about this patient population,
+quote 2: I know it's hard for people to make it to work and we need those people to be at hospitals so I'm just trying to help fill that need.
+quote 3: Their reputation for aggressively pursuing innovative approaches to value-based care is what made this a natural fit for me. I know that what we can do together will be game-changing.
+quote 4: Now with our Walgreens' collaboration, we will be able to further extend our ability to help patients by alleviating the financial burden of managing this disease.
+
+
+Words associated to topic 3: 
+[list([('cricket', 0.024680226900180798), ('wickets', 0.009348132925751235), ('batting', 0.008985782499491918), ('bowlers', 0.008695937605349986), ('test', 0.008287138843429107), ('wicket', 0.007969514937243715), ('batsman', 0.007920117938606485), ('bowling', 0.00790070562391574), ('bowler', 0.00606543554810137), ('series', 0.005416074319103137)])]
+
+Top quotes associated to the same topic: 
+quote 0: Generally it will turn on days three four and five. Usually it's a pretty good wicket the first couple of days then deteriorates a bit if there's hot weather around.
+quote 1: The most important thing playing in places like India against these guys is to have a little bit of character. You probably know you're going to get hit for boundaries but it can really get worse if you make that affect you. I have got him a few times now but I don't think there is anything in it. He still scores at (a strike-rate of) over 100 against me.
+quote 2: I will be honest... I thought there will be a bit of rustiness as Dhoni has not trained for quite some time. The last time we had spoken, he had said that he would start in January and here you go. He is a man of his words and it came as no surprise that he was out there training with the guys just like any other regular Jharkhand player. But what surprised me most was how he `middled' almost every ball, be it in the pacer's net or the spinner's net. He even took throwdowns just like a player going through the batting drills does,
+quote 3: I have played for Pakistan as a batsman for 17 years, bowling was always a plus that has benefited the team. I have always thought of myself as a batsman, I have scored runs as a batsman, and I'm looking forward to the opportunity to keep contributing as a batsman for Pakistan.
+quote 4: Obviously I will miss bowling,
+
+
+Words associated to topic 4: 
+[list([('iran', 0.04997669443512003), ('iranian', 0.02635659745434446), ('nuclear', 0.015224375275320732), ('irans', 0.013684068907584206), ('regime', 0.010933155334714256), ('iranians', 0.009595554151477195), ('tehran', 0.008039899048615847), ('war', 0.007031779056981055), ('iraq', 0.006886902397700461), ('trump', 0.005297801764176042)])]
+
+Top quotes associated to the same topic: 
+quote 0: agreed to come on your show today to talk about Iran, that's what I intend to do.
+quote 1: No, I oppose war with Iran, that's not the purpose of this strike,
+quote 2: The Iranian leaders have accused the US of supporting various activities to topple the regime, and strongly believe that US policy on Iran aims ultimately for regime change, which Washington could choose to achieve by military invasion. As a result, Iran's military strategy has developed primarily to ensure a robust response against a US invasion or regime destabilisation so as to deter military action
+quote 3: joining your community policing teams soon,
+quote 4: For my next trick, I will make Democrats support Iran.
+
+
+Words associated to topic 5: 
+[list([('women', 0.030484659473305), ('men', 0.015206554139528488), ('gender', 0.014320373844500366), ('transgender', 0.010699113904761944), ('woman', 0.009900232878903197), ('lgbtq', 0.009421570371971076), ('gay', 0.008150584141177409), ('womens', 0.006747184659868836), ('lgbt', 0.005729525245350818), ('female', 0.0053681806034966174)])]
+
+Top quotes associated to the same topic: 
+quote 0: As we are talking now, only six per cent in the National Assembly are women, only 17 per cent on the federal cabinet are women. We need to borrow a leaf from Rwanda where a substantial proportion of their parliamentarians are women,
+quote 1: Over and over, we are told women are not allowed to be angry,
+quote 2: They were used to stigmatize and punish LGBTQ individuals and communities and warn others what harm could await them for living authentically.
+quote 3: They thought it was just going to be an anti-Trump political rally when it's about women and women's rights and violence against women.
+quote 4: a tribute to an ancestral [ female ] power that goes beyond the idea of procreation.
+
+
+Words associated to topic 6: 
+[list([('bjp', 0.03148048562480128), ('delhi', 0.017413561894998028), ('modi', 0.00938279122979011), ('narendra', 0.0075117594559590125), ('gandhi', 0.007031158318080245), ('party', 0.0068801746098379885), ('congress', 0.006854357305008255), ('kejriwal', 0.006475547587074884), ('india', 0.0063453619266954815), ('minister', 0.006122875519609113)])]
+
+Top quotes associated to the same topic: 
+quote 0: The idea was to flip the BJP campaign slogans and also to make the message more accessible.
+quote 1: Mamata Banerjee is the chief minister of West Bengal and not the leader of the entire country. At least she should understand her constitutional duties,
+quote 2: I hear she is coming to address a seminar in Kolkata. And state Congress chief Somen Mitra says he will go to listen to her speech. This is the state of the CPI-M and the Congress. And then they hope to bring about political change in Bengal,
+quote 3: How is this any different from what BJP is doing? People are out on the street fighting for their rights to dissent. Why is this professor's rights to speak not protected? @AUThackeray @OfficeofUT @RahulGandhi
+quote 4: Due to the Code of Conduct, there cannot be new announcements about Delhi. But I appeal to the Centre to make announcements for Delhi in the coming budget on pollution, sewer, transport etc.. Development of Delhi should not stop because of the election,
+
+
+Words associated to topic 7: 
+[list([('downtown', 0.012801776626656491), ('city', 0.011696966434379301), ('town', 0.010976468724969993), ('building', 0.010396432715990656), ('hotel', 0.009784436472930506), ('park', 0.009043754623686031), ('buildings', 0.006643604145239609), ('architecture', 0.005461660144954638), ('york', 0.005311870267463055), ('new', 0.0050108695261948735)])]
+
+Top quotes associated to the same topic: 
+quote 0: That's a lot in a town this size,
+quote 1: I know it sounds incredible. How in the world can somebody be in a cocoon on Rainey Street?
+quote 2: The thing that we want to see is these mill buildings be revitalized, contribute to the economic development, tax base of the city, certainly, and that's basically what you've achieved here.
+quote 3: Sometimes you can craftily add a new bedroom to a home by dividing one bedroom into two, as long as they're still good-sized rooms.
+quote 4: I've lived in ten or maybe eleven different student accommodations since leaving home, and without a doubt, this is my favourite place.
+
+
+Words associated to topic 8: 
+[list([('club', 0.03027811286927846), ('liverpool', 0.01245190327810617), ('clubs', 0.00967448311981691), ('league', 0.009030762282652425), ('premier', 0.008667938423459599), ('manchester', 0.00798366846385225), ('players', 0.006246602794976281), ('united', 0.0049400322834107805), ('fans', 0.0048129237009354635), ('football', 0.0045902356551910314)])]
+
+Top quotes associated to the same topic: 
+quote 0: We had a good attendance at the information evening, and there are other clubs who weren't able to attend but are keen to be involved,
+quote 1: They're powerful, athletic, a very energetic team who can affect opposition in different ways. I'm not saying Leeds are one dimensional, far from it, but I looked at West Brom and felt they could grind out results.
+quote 2: If we back the clubs, they will give the national team full support too,
+quote 3: There's bits I see from them that I think, `They're heading in the right direction' . The youth side, the energy around the place. It's just that lack of quality. United are where they are at this moment in time and people have got to accept it.
+quote 4: I feel Leeds have recruited quite well and Hull FC have brought a good quality players to Super League,
+
+
+Words associated to topic 9: 
+[list([('food', 0.0182742480250743), ('cooking', 0.014375804803924272), ('cook', 0.01356648074840928), ('chicken', 0.010310525368791054), ('eat', 0.009806116111387032), ('flavor', 0.009171493668225523), ('eating', 0.009067459071025998), ('ingredients', 0.008907637306201744), ('mcdonalds', 0.008890661831112397), ('chef', 0.007861280287050448)])]
+
+Top quotes associated to the same topic: 
+quote 0: Lunchtime, we offer soup, baked potatoes, freshly made baguettes, paninis -- we have a lot.
+quote 1: Look out for season wild mushrooms in supermarkets and farmers' markets -- they're absolutely extraordinary and will add so much bonus flavour to this dish.
+quote 2: I sauteed cauliflower rice in a pan and then in a separate pan I fry up hamburger then add crushed giner [ sic ], coconut, aminos, garlic and sesame oil,
+quote 3: For hundreds of years people have been doing cheese boards and charcuterie, but I think it has been part of the rise of the interest in do-it-yourself artisanal craft food,
+quote 4: On our menu, we have a vanilla panna cotta with strawberry compote and fresh berries,
+
+
+Words associated to topic 10: 
+[list([('virus', 0.03212957563080095), ('coronavirus', 0.030376618676370693), ('outbreak', 0.025541686489135816), ('china', 0.015774082634091857), ('transmission', 0.012358238533275997), ('spread', 0.011669467227112896), ('sars', 0.010675367781535819), ('infected', 0.009461935492394888), ('viruses', 0.008995103824788766), ('outbreaks', 0.008826421389364719)])]
+
+Top quotes associated to the same topic: 
+quote 0: We've definitely got evidence that non-human morbilliviruses can easily adapt to enter human cells, and we're confident that it can replicate in them too,
+quote 1: low for the general American public, who are unlikely to be exposed to this virus.
+quote 2: By analyzing sequence changes between existing and emerging viruses we can model structure and function and use this to predict changes in virus stability, transmission and pathogenesis, and how viruses move between species and cause enhanced disease within a given species.
+quote 3: We need to get a hold of this so we can already establish our own capacity to diagnose and to be able to identify that this is the novel coronavirus,
+quote 4: China will strengthen international cooperation and welcomes the WHO participation in virus prevention,
+
+
+Words associated to topic 11: 
+[list([('kobe', 0.06276802614700737), ('bryant', 0.029036742871871732), ('basketball', 0.011259438645516368), ('mamba', 0.010489295696588607), ('lakers', 0.008963052730806708), ('kobes', 0.008917597876112987), ('gianna', 0.008471717982307338), ('vanessa', 0.007238447200869006), ('gigi', 0.007065582715798927), ('nba', 0.006641936169157847)])]
+
+Top quotes associated to the same topic: 
+quote 0: Kobe was jus an inspiration as to the way that I work and the way that I embrace the world
+quote 1: I remember rushing home after school to watch the games with my dad, watching Kobe, just enjoy his dominance over the game.
+quote 2: it's a small but heartfelt and deserved gesture to honor the life and memory of Kobe Bryant, an absolute champion who always had Italy in his heart. Kobe was and will always be linked to our country.
+quote 3: I will tell you what moved me more than anything else is my memory of Kobe coming to all the opening events around the museum and the fact that he was so generous with his time,
+quote 4: I'm sure Kobe would want us to play, because that's the kind of fierce competitor he was,
+
+
+Words associated to topic 12: 
+[list([('traffic', 0.0272321233417747), ('road', 0.021447468896153402), ('roads', 0.015737608634841364), ('parking', 0.013282164748722595), ('transportation', 0.009533269247767642), ('transport', 0.008861425795926999), ('pedestrian', 0.008671146322003496), ('congestion', 0.008594736372775297), ('bus', 0.008252138194125312), ('buses', 0.007744690917222158)])]
+
+Top quotes associated to the same topic: 
+quote 0: Now we wait to see how to get home as all the roads out are shut,
+quote 1: When traffic is coming from Darwen towards Blackburn, if a vehicle is queueing to turn right after the crossing, and the other lane is free, it's difficult for those people in the left lane to see someone crossing as their view is blocked, so they go right over.
+quote 2: With local Timaru District Council roads being used as a SH1 bypass for a short period of time there was a significant increase in traffic volumes,
+quote 3: You can drive on them. But with a busload of kids we probably shouldn't be on them.
+quote 4: The roads haven't been carpeted for years and it's nearly impossible to walk here after it rains. But at least AAP has provided relief to us poor people in form of water and electricity bill waivers. Also, our children are getting better education,
+
+
+Words associated to topic 13: 
+[list([('she', 0.028979548830232366), ('her', 0.02231905089981686), ('shes', 0.01159318515777912), ('herself', 0.004243530199608891), ('skills', 0.003300860107345205), ('was', 0.0028907464900211097), ('help', 0.002879131973044145), ('benicia', 0.0028017358628618103), ('shed', 0.0028000476755742636), ('experience', 0.0026717709416317886)])]
+
+Top quotes associated to the same topic: 
+quote 0: At first we would start off [ and ] I would read a sentence, and she would read a sentence. Then I would read a sentence, and she would read two sentences, and now she's reading me whole books,
+quote 1: She is widely respected as a strategic leader with deep insight into the Asia Pacific market.
+quote 2: She had an empathy for them.
+quote 3: And I would tell her that it is often in our darkest hours, when we feel most vulnerable and alone, that we realize our greatest growth,
+quote 4: You had to prepare for the fact that there would be a very high chance she wouldn't live for the first 24 hours,
+
+
+Words associated to topic 14: 
+[list([('housing', 0.037912329928664966), ('affordable', 0.01686953837064722), ('rent', 0.01636801646944668), ('homes', 0.015662165865605374), ('rental', 0.011312821394361738), ('property', 0.009571537320052989), ('rents', 0.008740705671464769), ('lease', 0.00809958270101172), ('market', 0.007378475281276561), ('landlords', 0.007090241794476913)])]
+
+Top quotes associated to the same topic: 
+quote 0: As is the case with all Emergency Departments across the region, both of our Emergency Departments at Antrim and Causeway are busy due to an increase in attendances of sick people, some with complex conditions, who require to be admitted to hospital for acute care.
+quote 1: there are so many different factors that are driving up the rate of eviction and really no factors that drive down the rate of eviction
+quote 2: While many communities still have clear concerns about SB 50, our affordable housing crisis demands we make every attempt to reach agreement on potential solutions. I hope the additional time afforded by this action contributes to the ongoing efforts being made by Senator Wiener, housing advocates, and community leaders,
+quote 3: protect and expand affordable housing, preserve our small businesses and continue to strengthen the Richmond District community that 80,000 residents call home.
+quote 4: My favourite part was when the turtle climbed over Grandma's foot,
+
+
+Words associated to topic 15: 
+[list([('fire', 0.04974340617686951), ('fires', 0.03162530617741839), ('firefighters', 0.014095647857918715), ('bushfire', 0.012901516875679708), ('bushfires', 0.011439497925724454), ('burn', 0.007078629897731451), ('burning', 0.006911757126901127), ('wildfires', 0.006071880651806672), ('firefighting', 0.006020926595054007), ('burns', 0.005667011281011824)])]
+
+Top quotes associated to the same topic: 
+quote 0: The London fireworks are good and all that but you can't see naffink with all the smoke anyway.
+quote 1: small part in helping our firefighters, and easing the suffering of people who have lost their homes
+quote 2: Officials believe Kinsella in some way disrespected the hierarchy by not following their orders and now is on a restricted regime and away from the general population for his own welfare,
+quote 3: I had dreamed of this project some 25 years ago, as there are many places in the Valley where fire brigades can't reach. Dry risers should be built in other places that are inaccessible to firefighters,
+quote 4: And the last perception, which is valid, is that people don't want to clear massive areas around their homes just for bushfire safety because it destroys the amenity and the very reason they chose the site in the first place.
+
+
+Words associated to topic 16: 
+[list([('relationship', 0.01943640458210311), ('together', 0.009816914055062383), ('friends', 0.009675550008808693), ('each', 0.00931450394394405), ('love', 0.008621981258409725), ('relationships', 0.0058621118321701676), ('married', 0.005852811190847611), ('romantic', 0.005652960400056702), ('date', 0.005588174317379417), ('friendship', 0.005445951882299195)])]
+
+Top quotes associated to the same topic: 
+quote 0: We have an opportunity with our new team to bring in new ideas, a new menu and to refresh the interior and the iconic outdoor patio to ensure Billy's will continue to operate on Grand Avenue and be a part of the great neighborhood for years to come,
+quote 1: When we asked if it could be an open relationship, they said, `Yeah, of course. It's the 21st century, kid. That's the only way we'll have it.' Now we are friends with benefits and I couldn't be more stoked. This new and exciting relationship will help quench our relentless thirst for producing animated cartoons. Excuse me, I'm gon na go carve NF+TM on a tree now.
+quote 2: We've enjoyed being together so much.
+quote 3: We need to make sure UNDRIP is a foundational piece of this relationship... There is no relationship if we don't move this forward in this term.
+quote 4: We won't be super clingy or high maintenance in relationships.
+
+
+Words associated to topic 17: 
+[list([('show', 0.026249579903144863), ('television', 0.009236312407154309), ('tv', 0.009158922190721333), ('episode', 0.009091029368947312), ('comedy', 0.008733560398027388), ('episodes', 0.006488349666963444), ('shows', 0.00636375900673609), ('season', 0.0058087232478512794), ('series', 0.005152510273760555), ('characters', 0.0047064610323108895)])]
+
+Top quotes associated to the same topic: 
+quote 0: I was thinking back to when I was a little girl and I would -- I didn't have a VCR but I had a tape recorder and I would tape Laverne and Shirley, Happy Days on my tape deck, and I would listen to these episodes in my head, and I would just think, `One day, I'm goig to do that. I really know I'm going to get out of this house' -- that's another story -- `and I'm going to be up there. I'm going to be that. '
+quote 1: It's a free-for-all of fecal matter. It's a (expletive) show out there, and that's great.
+quote 2: Why do you make the show?
+quote 3: It started out with about five or six shows and has turned into this wonderful thing,
+quote 4: It is first and foremost a magical show,
+
+
+Words associated to topic 18: 
+[list([('shes', 0.024539822034356912), ('she', 0.02320345014029311), ('her', 0.019618075392833324), ('player', 0.0055005406886964444), ('ball', 0.004050572480139575), ('serena', 0.00389392396639137), ('played', 0.0038161408629835292), ('plays', 0.003768668330822826), ('game', 0.0036850809647372812), ('claressa', 0.0035466029037280328)])]
+
+Top quotes associated to the same topic: 
+quote 0: are false and harmful to Texas A&M University and its faculty.
+quote 1: And then trying to keep (Leigha) Harris in check because she's one of the best players in the Long Beach area.
+quote 2: She's not selfish. She will share the ball. She's also a good defender and will get 3-4 steals per game. Sometimes her aggressiveness gets her in foul trouble, but she's a good defender.
+quote 3: She's a great player and she can fill it up in a hurry,
+quote 4: I thought she got some of our offense going. Just a high-level player making plays for us.
+
+
+#------------------------------------# 
+Month 2 
+
+Words associated to topic 762: 
+[list([('students', 0.01961602125753079), ('school', 0.014205135371781861), ('schools', 0.013973375344571232), ('education', 0.013054926921625201), ('teachers', 0.010996702147662633), ('student', 0.007682992244476679), ('university', 0.007319338278307752), ('college', 0.006778878391233163), ('campus', 0.006358746837633439), ('universities', 0.006090090051429158)])]
+
+Top quotes associated to the same topic: 
+quote 0: It would make some imported medical devices costlier and that increase will likely be passed on to consumers,
+quote 1: Holistically speaking, colleges are much more interested in how a student reached their maximum potential and what motivated them,
+quote 2: Principals, teachers and school staff do a great job -- but it is clear that more training and support is needed,
+quote 3: It's really disappointing, especially since [ teachers ] say they are fighting for us,
+quote 4: [ It's something ] social studies programs in Minnesota schools don't really offer students the opportunity to do.
+
+
+Words associated to topic 763: 
+[list([('food', 0.018009498220285244), ('eat', 0.010689682705436482), ('beer', 0.008893429242987385), ('eating', 0.008293349242174812), ('wine', 0.007473764123891136), ('meat', 0.007373206456834136), ('restaurant', 0.006429439315143508), ('diet', 0.006311581974158757), ('milk', 0.00625085501020765), ('cheese', 0.005573946912009372)])]
+
+Top quotes associated to the same topic: 
+quote 0: You set the stage, you set the standard, and others grab it and grow.
+quote 1: Ighalo FC: We eating jollof!
+quote 2: Don't target AntAC in the middle of an America presidential election in which Soros was backing Hillary Clinton to succeed another Soros favorite, Barack Obama.
+quote 3: Come with me and be my travel companion. I'll be travelling around the Philippines,
+quote 4: The entire team are driven and motivated and this is important to achieve our objectives, despite the paucity of funds,
+
+
+Words associated to topic 764: 
+[list([('music', 0.023473612640960404), ('song', 0.018500314558807712), ('songs', 0.014527478469697526), ('album', 0.013760141228665907), ('band', 0.008122114944660093), ('sing', 0.005294278340352389), ('rock', 0.005144403780040273), ('write', 0.00453139152022585), ('singing', 0.0042926581137992335), ('musicians', 0.004027460280538624)])]
+
+Top quotes associated to the same topic: 
+quote 0: I often described it as living the life of Sydney Crosby for two weeks. It was really crazy.
+quote 1: I write in moments, in disparate sound blocks, so I find it convenient to store these events on filing cards so they can be sorted and ordered with minimum effort.
+quote 2: Practically all the composers we work with are new, they are young and are from the new generation that are having a lot of success,
+quote 3: It's one of my favourite songs, so it's turned out very nicely for me. It's absolutely beautiful, dream-like and haunting. I think anybody who has love in their life will relate to it.
+quote 4: Again, only because it is our song, it belongs to us, and it wouldn't be fair for someone else to put their name to it after composing one or two lines. That is straight-up theft, and that practice needs to stop NOW!
+
+
+Words associated to topic 765: 
+[list([('half', 0.011253514185962812), ('shots', 0.010392492998696773), ('game', 0.009583179483536559), ('second', 0.007692515931774499), ('quarter', 0.006835507581370999), ('offense', 0.006810205021247276), ('defense', 0.00644880457737567), ('defensive', 0.005832504328112421), ('ball', 0.005794806919779668), ('turnovers', 0.005582441479883144)])]
+
+Top quotes associated to the same topic: 
+quote 0: They realized they could educate people about these beautiful instruments and help them learn more about them.
+quote 1: I'm not sure we got more than 10 good looks (on 3s),
+quote 2: I thought we forced them into a tough shot. We gave help on the dribble-drive. We defended without fouling and they had a 7-footer reach over us and have a tip-in,
+quote 3: We had the possibility of winning, twice we could have scored a fifth goal,
+quote 4: It wasn't bad, you can tell the difference in quality but there were some other positives to take from the game, if you look at the few chances we created in the first-half, maybe we could have managed to get something out of it,
+
+
+Words associated to topic 766: 
+[list([('traffic', 0.012037102723446779), ('parking', 0.010843603486885197), ('road', 0.010501793817757952), ('roads', 0.010028931747783534), ('transit', 0.009036187203674606), ('bus', 0.00831277653648795), ('buses', 0.007754696672682902), ('transport', 0.007528192418606244), ('rail', 0.0075241330317162595), ('transportation', 0.007421512564066547)])]
+
+Top quotes associated to the same topic: 
+quote 0: We will get smaller in order to get better,
+quote 1: We were always gon na go on the trip to model for them but, when we heard the story and we actually met the two owners, they told a group a brief overview of the story and it made us want to work for them even more.
+quote 2: he wanted to give the country sufficient time to recruit a new Chief Justice ahead of the August 2017 election
+quote 3: It takes a lot to go back to fix the roads once they get torn up.
+quote 4: that a sharper look at necessary turn lanes at intersections, sewer improvements and standing water issues, traffic signals and other aspects of the plan had raised projected costs to $9.8 million for the full changes,
+
+
+Words associated to topic 767: 
+[list([('happen', 0.008544952023625036), ('answer', 0.006800541979356895), ('question', 0.006346059654354795), ('know', 0.00618135581221129), ('questions', 0.0061156779529566675), ('yeah', 0.006050586064587048), ('dont', 0.005541657643202371), ('think', 0.005454793673466617), ('forward', 0.0052807091293208), ('honest', 0.005142325636131454)])]
+
+Top quotes associated to the same topic: 
+quote 0: Win or lose, we're going to lay it all out there.
+quote 1: Actually I agree, it would have been a good idea to have done that,
+quote 2: I have to say at this stage, I think it is unlikely,
+quote 3: We don't waste time on bozos.
+quote 4: I'm not doing that. Why would I do that?
+
+
+Words associated to topic 768: 
+[list([('fight', 0.03403667168073816), ('wilder', 0.014726980091014178), ('fury', 0.013922300932625703), ('boxing', 0.011429014173658205), ('tyson', 0.010973263204315378), ('heavyweight', 0.009661477944634901), ('fights', 0.009408447240612917), ('fighter', 0.00911405544277587), ('deontay', 0.007952520993934436), ('boxer', 0.006842232796268438)])]
+
+Top quotes associated to the same topic: 
+quote 0: Not that it constitutes anything that happened, but it's understandable. It doesn't excuse it, but it might explain it.
+quote 1: Ang galing ng misis ko mag-guide ng career,
+quote 2: Joshua got knocked out by Andy Ruiz and then fought an obese Ruiz and didn't do anything accept run around the ring and throw his jab.
+quote 3: This is what happens when you have the two best heavyweights in the world, both undefeated and highly motivated. I wouldn't expect anything less than this type of energy.
+quote 4: The 12th round of our first fight was a good round, and credit to Wilder, he got me with two of the best punches I have ever seen thrown in a 12-round heavyweight fight. But the thing Wilder must be thinking is,' I hit that guy with my hardest punch in Round 12, and he got up. What do I have to do to keep him down?' He's going to try to land the right hand. If I'm stupid enough to get hit with it, I deserve to lose. I hit the floor last time, but I showed that I'm truly a fighting man. If he can't finish me, I'm going to eat him up.
+
+
+Words associated to topic 769: 
+[list([('women', 0.04345539431182279), ('men', 0.011625979221394533), ('womens', 0.011236897394617982), ('gender', 0.010181174566381792), ('woman', 0.009706436540329575), ('equality', 0.008809464217456271), ('girls', 0.007525339534280853), ('female', 0.006975068934777561), ('society', 0.003604029403328348), ('feminine', 0.0033207447699706238)])]
+
+Top quotes associated to the same topic: 
+quote 0: The official ask (for me to be interim leader) was a few weeks ago and I had some homework to do. My initial avoidance of returning the calls was a few months,
+quote 1: to justify what we want to do, we can just show them what we women CAN do.
+quote 2: Why did Spinks lose?
+quote 3: Mr. Chen's promises to investors were as worthless as his non-existent mines and phony digital currency.
+quote 4: A lot of the women that are committing FGM on their daughters are not doing it through ignorance.
+
+
+Words associated to topic 770: 
+[list([('she', 0.03217785020375945), ('her', 0.026129946195741056), ('shes', 0.014084579321474345), ('herself', 0.006377206104832578), ('shed', 0.005218146372481001), ('girl', 0.004351860692459653), ('woman', 0.00427183873744613), ('life', 0.004048532034476518), ('knew', 0.0037104354303909917), ('teacher', 0.0036601549933701107)])]
+
+Top quotes associated to the same topic: 
+quote 0: Ah, what fantastic news! Great to see her!
+quote 1: On top of these extraordinary calculations, actually sophisticated mathematics that she was doing, she was additionally ambidextrous and also creating all at once with both hands,
+quote 2: We are going to take her to games, show her how our company, with 135 employees and all of its departments, works.
+quote 3: I've had the most dreadful row with [ the girl ] this morning, she said she wants to get rid of me.
+quote 4: What are they doing to her?
+
+
+Words associated to topic 771: 
+[list([('player', 0.009515692563879763), ('club', 0.008269929869505407), ('he', 0.008044394826276433), ('hes', 0.007594019683001531), ('chelsea', 0.006952947624049091), ('striker', 0.006590299719459903), ('him', 0.006578965968332535), ('messi', 0.005394485453290988), ('manchester', 0.004967090218085781), ('midfield', 0.004844899797259989)])]
+
+Top quotes associated to the same topic: 
+quote 0: Guendouzi is Arsenal's best recruiter by far. Saliba, Upamecano, Pape Gueye etc.
+quote 1: I'm like an emotional support animal,
+quote 2: He has been superb for City and this is a huge kick in the balls..... I wouldn't blame him.
+quote 3: Pogba is also talked about by other sides.
+quote 4: He's doing very well [ at Chelsea ],
+
+
+Words associated to topic 772: 
+[list([('film', 0.025005225775349783), ('movie', 0.017570818683727875), ('films', 0.01556163392407307), ('movies', 0.009162345249939334), ('script', 0.008262069767933875), ('cinema', 0.006996653313369657), ('actor', 0.00638459720914397), ('filmmakers', 0.005770474789084574), ('actors', 0.005479446302205287), ('star', 0.004483902204162722)])]
+
+Top quotes associated to the same topic: 
+quote 0: That sounds like the description of a bad Hollywood screenplay, but it is real.
+quote 1: Every person who worked on this film, I talked to them about that. That was their edict: to make sure that everything they did was precise.
+quote 2: like so many others in the documentary, offers an unfiltered look into Wade's life.
+quote 3: From the beginning, our festival has been all about empowering talented filmmakers. A guaranteed distribution deal from one of the top distributors in the country is a huge continuation of that founding mission.
+quote 4: The last movie I saw of mine was Crazy Rich Asians. It was watching that movie, after that experience, that I stopped watching anything. I didn't watch my talk show appearances or Fresh Off the Boat or Hustlers. Just because I thought, you know, I want to focus on the present and not be self-critical and think too much, dwell too much on the past.
+
+
+Words associated to topic 773: 
+[list([('black', 0.036153715926591064), ('african', 0.015051786616063432), ('racism', 0.014384368433901574), ('racist', 0.014275221371365438), ('white', 0.01109682610833537), ('american', 0.008836654684574086), ('history', 0.007700290904737669), ('africanamerican', 0.007662076308578391), ('americans', 0.006731592328014896), ('race', 0.0065942135523104975)])]
+
+Top quotes associated to the same topic: 
+quote 0: But also, I don't think it's always wise to rush to the word `racist.' A lot of times I think it might not warrant that. The other thing is, if somebody feels a certain way, if they're getting called that, they're going to shut down. They're not going to open up for dialogue. So the underlying issue of whatever it is won't be taken care of.
+quote 1: My goal is not to define the All Blacks into Ian Foster's All Blacks,
+quote 2: [ Funke ] wanted very much to come to Charlottesville,
+quote 3: I firmly denounce this egregious and hateful attack on black culture and pride,
+quote 4: an annual celebration of achievements by African Americans and a time for recognizing the central role of Blacks in U.S. history,
+
+
+Words associated to topic 774: 
+[list([('court', 0.023921297633480484), ('judge', 0.016171233323667347), ('jury', 0.014308367587832035), ('trial', 0.013713990423650896), ('judges', 0.011823951849180123), ('courts', 0.010333473986062122), ('case', 0.010229763051723713), ('supreme', 0.007770905464466171), ('defendants', 0.0072832093459652605), ('defendant', 0.0071785968921309175)])]
+
+Top quotes associated to the same topic: 
+quote 0: I respect the court's ruling. Judge Toomin's an excellent judge,
+quote 1: it has become clear that I can no longer effectively serve the court in this capacity.
+quote 2: It challenges us as a state and a culture to question why human trafficking exists.
+quote 3: Additionally, the judge has an independent obligation to avoid an appearance of impropriety; the defense was not obligated to raise the issue.
+quote 4: It was a nolo contendre plea for a reason
+
+
+Words associated to topic 775: 
+[list([('cricket', 0.02807724373201783), ('wicket', 0.011231708686007334), ('bowling', 0.010376599975760112), ('wickets', 0.010209856542995286), ('bowled', 0.009548288776442405), ('bowlers', 0.008765345796656044), ('batting', 0.007958766779317623), ('zealand', 0.007494510383666789), ('india', 0.006720109380085875), ('test', 0.006621142555471822)])]
+
+Top quotes associated to the same topic: 
+quote 0: Maybe we'll get [ more ] pitches like these because their strength is fast bowling. They have a very experienced bowling attack but it's good that we got some time in the middle and experienced these conditions. They were tough and it's good to experience tough conditions before the series. We're happy with the way the day went,
+quote 1: Humans may use animals for war, but we mustn't abuse them,
+quote 2: At the moment it is really hard to miss it too much because there are just so many wonderful things going on in cricket... From that point of view, while I miss playing soccer, it is a wonderful development.
+quote 3: Synopsys' Fusion Compiler product is the successful result of a multi-year investment in a vision to build highly differentiated and transformative products for an increasingly demanding industry,
+quote 4: I've got a nice rhythm in T20 cricket at the moment. I've enjoyed a couple of games back home. I scored a couple of fifties against Sri Lanka. Played against Pakistan and then played Big Bash. I am in a nice place and feeling good.
+
+
+Words associated to topic 776: 
+[list([('club', 0.027004356695331546), ('league', 0.01611449768452271), ('liverpool', 0.014905754859918593), ('clubs', 0.01411881711105318), ('madrid', 0.013342631775230126), ('chelsea', 0.011674004624249218), ('champions', 0.009580364140145837), ('premier', 0.00926192399443775), ('barcelona', 0.007556186766182034), ('players', 0.006231041430392189)])]
+
+Top quotes associated to the same topic: 
+quote 0: Does his lack of intention absolve him of responsibility for the death?,
+quote 1: I wish I can be part of the Gunners family in the future again.
+quote 2: This time of year, things get thrown around and clubs get linked and it's a little bit of a slow news week, so nothing in that one at this stage.
+quote 3: You can't duplicate the first time you walk into a club and say, `Hey, I'd like to have a job here,' and then you go work that night,
+quote 4: It is very big. We knew if we lost here. It was going to be a very big gap between Chelsea and us, but, after these three points. I am very confident we can catch that fourth spot, the club's official website quoted Matic as saying. The Red Devils defeated Chelsea 2-0 on Monday (local time) at Stamford Bridge. The Red Devils are on the seventh spot in the Premier League table with 38 points While Chelsea are on the fourth position with 41 points. Matic said that Chelsea are a tough side to beat at their home but the team played very well and emerged as the winner.
+
+
+Words associated to topic 777: 
+[list([('show', 0.025438637993318282), ('episode', 0.013747263376032251), ('shows', 0.006742766847226642), ('season', 0.006453867686453014), ('episodes', 0.00635460159356364), ('comedy', 0.005881365047112292), ('tv', 0.00547639043309941), ('watch', 0.0052202065914012715), ('ending', 0.0037024829668524705), ('series', 0.0035869214233259098)])]
+
+Top quotes associated to the same topic: 
+quote 0: I'm doing well. But there are still a lot of adjustments to be made. There are things to improve. There's room for growth. I'm pushing myself to the limits, because this show is close to my heart, and I want it to do well,
+quote 1: I have come to know about the showcause through social media. So, I have nothing to comment,
+quote 2: okay, enjoy th show.
+quote 3: I sent you some fantastic ideas for the show but you left me on read.
+quote 4: A more relaxed life is very much what I'm looking for. Even if we were disagreeing on something, it's not the point of the show. The point is to bounce off each other and to show a more normal side to our lives.
+
+
+Words associated to topic 778: 
+[list([('book', 0.024566124921019398), ('story', 0.01945648681782241), ('books', 0.017549799910998604), ('read', 0.015924338696803493), ('write', 0.015478865767185327), ('stories', 0.01429039640139211), ('writing', 0.010162715367997953), ('fiction', 0.009960443738256448), ('poetry', 0.009841134066310344), ('writers', 0.009244528022466114)])]
+
+Top quotes associated to the same topic: 
+quote 0: I just want to tell stories.
+quote 1: The risk of manipulating events or distorting the author's intention in order to put forward your own ideas, seems almost insurmountable.
+quote 2: One good thing is that the people who came to visit the book fair have discarded them (Left supporters). We are not fools to allow them to steal the limelight by getting into a fight with them. Our fight is against the TMC.
+quote 3: Every customer probably has their own story about Chuck,
+quote 4: Amy is more of a moderate. She seems to have a plan to pay for everything she is proposing,
+
+
+Words associated to topic 779: 
+[list([('race', 0.030597194888149815), ('racing', 0.02207072992477847), ('races', 0.011835363869546624), ('f1', 0.00949869210022244), ('car', 0.008331788666261506), ('formula', 0.008250422179279416), ('ford', 0.0070052985871929385), ('cars', 0.006786715882708995), ('daytona', 0.005791289897393609), ('500', 0.005756156501979889)])]
+
+Top quotes associated to the same topic: 
+quote 0: What that looks like, we'll talk about in the coming weeks.
+quote 1: We know that the'34 was a very good step compared to its previous cars, so we wanted to build on a decent car and introduce some new concepts.
+quote 2: It's the Indianapolis Speedway.
+quote 3: The machines are usually very limited on track time while participating at many of their showcase events with INDYCAR. We want to provide ample time for everyone spend an enjoyable day at the track, get plenty of laps in and prepare for the season ahead.
+quote 4: The [ technical ] group is still young. We still have to grow, we have to learn from our mistakes, we have to capitalize on this and concentrate on reliability, which was one of the weak points last season. At the same time we have the 2021 project that... is the greatest change that has ever occurred in F1 since the beginning. We have to be ready for this.
+
+
+Words associated to topic 780: 
+[list([('israel', 0.047878469921747095), ('palestinian', 0.02951211294217188), ('israeli', 0.024693585717696524), ('palestinians', 0.019485523498446043), ('palestine', 0.014362454152552157), ('gaza', 0.012657780207300552), ('netanyahu', 0.012548760912138558), ('jerusalem', 0.010194843375162849), ('abbas', 0.008315669608384002), ('sovereignty', 0.007258504621753533)])]
+
+Top quotes associated to the same topic: 
+quote 0: reject the U.S., Israeli deal of the century because it did not meet the minimum rights and aspirations of the Palestinian people.
+quote 1: What could play in the Joint List's favor is the fact that the idea of attaching `the Triangle' to a future Palestinian state was met with reservations among the broad Israeli public, and has been met with absolute rejection in the Arab community,
+quote 2: legitimize Israel's illegal settlement enterprise and to whitewash the resulting human rights abuses.
+quote 3: Economic activity in Judea and Samaria meets all accepted standards of CSR,
+quote 4: incredible benefits that could come to the Palestinians with this plan,
+
+
+#------------------------------------# 
+Month 3 
+
+Words associated to topic 1520: 
+[list([('students', 0.019906468064890853), ('schools', 0.015895918953778773), ('school', 0.015486891763983903), ('education', 0.00908350814315851), ('teachers', 0.0073439608448727205), ('learning', 0.007303952903985248), ('student', 0.006006468681704672), ('campus', 0.005690733487051677), ('university', 0.00473402409007003), ('online', 0.0043485234234662724)])]
+
+Top quotes associated to the same topic: 
+quote 0: They're doing more than just reading in a textbook or taking notes from a teacher's lecture. They were able to do their own research and share the knowledge with their classmates. They get to play the role of teacher. It was fun to watch.
+quote 1: I've said before that if the science and the advice changed, such that keeping school s open would no longer be in the best interest of children and teachers, that we would act - we are now at that stage.
+quote 2: Polk County Public Schools is currently surveying our parents to develop our `Instructional and Operational Continuity Plan' ,
+quote 3: understood how [ the government ] was working, and [ the government ] understood how [ the students ] were working as well.
+quote 4: This (suspension of production) also will allow Toyota employees to prepare and adjust family plans in relation to regional directives to close schools,
+
+
+Words associated to topic 1521: 
+[list([('music', 0.022511667618258686), ('song', 0.017960250918977474), ('songs', 0.014086328341886082), ('album', 0.009703727052539175), ('sing', 0.006391347011709074), ('band', 0.005769182531083128), ('musicians', 0.005553018346414266), ('record', 0.005352192631803121), ('artists', 0.004569270014993514), ('singing', 0.00398304978959833)])]
+
+Top quotes associated to the same topic: 
+quote 0: This song is a bit of a bummer... even for us it's sad, and we only do sad songs
+quote 1: It will be woven into some symphony music as well as signing throughout.
+quote 2: In this tough time, music can comfort us and bring us together,
+quote 3: Damn i fount my soundcloud password,
+quote 4: So, for the sake of a better consonant or a better rhyme, you can change the whole story and you have to be willing to do that just to get a better song. I think some people can hammer away, try to get their ideas across, and do it well. Steve Earle does that very well. He can take an idea and find a character that'll put it across. Me, I have to find the character. And the character often says what he wants to, and he might not agree with me.
+
+
+Words associated to topic 1522: 
+[list([('virus', 0.037537039036133445), ('spread', 0.010883822751837541), ('spreading', 0.00475984781030761), ('viruses', 0.004074235948449105), ('slow', 0.003966202994237394), ('contain', 0.003914538897416064), ('this', 0.003734766886651633), ('transmission', 0.0028466086859996738), ('spreads', 0.002769930344910956), ('stop', 0.0025805362386179995)])]
+
+Top quotes associated to the same topic: 
+quote 0: So stay away from the crowds, go home, and then we can overcome this whole problem, this whole virus, in no time. But you got to go and follow those orders.
+quote 1: the scariest part about this virus.
+quote 2: the virus would continue spreading and we need to learn -- and fast -- about how it spreads.
+quote 3: There's people out there who are actually fighting this serious virus.... It's selfish to think my stuff's ruined. Everyone's lives are changing right now.
+quote 4: Our thoughts are with all whose lives have been affected by the virus so far. We are continually looking at other ways we can support those in our community and those in need and will keep you updated as things evolve.
+
+
+Words associated to topic 1523: 
+[list([('women', 0.039582425255322407), ('woman', 0.012396346295140845), ('gender', 0.010608213989526062), ('womens', 0.010129709475637905), ('female', 0.008603608698119611), ('men', 0.007800320256703326), ('gay', 0.007080590891265163), ('equality', 0.0055059152684311784), ('sex', 0.004884993296372632), ('girls', 0.004717230068649944)])]
+
+Top quotes associated to the same topic: 
+quote 0: For too long women's representation in the House of Commons was not balanced, overwhelmingly coming from the Labour benches. Theresa May helped ensure women have a strong and distinctive voice coming from a center-right perspective as well.
+quote 1: You're setting up a false war between women and trans rights.
+quote 2: International Women's Day is a reminder for all men and women that women can do it all and do it all.
+quote 3: It was a coordinated attack from the patriarchal and right-wing forces on the women's movement,
+quote 4: I am very passionate about women and very inspired by successful women. I want more women to believe in themselves, fight for their dreams, be financially independent, believe that there's nothing they can't accomplish. The conference is to mentor and inspire women with dreams and aspirations.
+
+
+Words associated to topic 1524: 
+[list([('banks', 0.023239849500872226), ('bank', 0.02220060270759699), ('loans', 0.01342498597185945), ('debt', 0.011421348506878419), ('loan', 0.01105597547096224), ('credit', 0.010884883960810778), ('rates', 0.010533748692568519), ('banking', 0.009542117322510233), ('fed', 0.009496422076115745), ('liquidity', 0.007591427583624638)])]
+
+Top quotes associated to the same topic: 
+quote 0: There's nobody in the state -- no agency, no entity, no one -- that a homeowner can go to with issues with these PACE loans.
+quote 1: What Is a Bank: What U.S. Consumers Think About the Key Issues Driving the Connected Economy.
+quote 2: Obviously IFRS 9 is an issue for us and all banks in terms of how we recognise any provision,
+quote 3: By integrating this directly into the eKeeper CRM, where the cost of the AML and credit report together is about the same as a pint and packet of crisps, this not only saves time, it ensures that an adviser's customers are getting the best and most efficient of outcomes.
+quote 4: to offer loan payment breaks for households and businesses affected by the crisis
+
+
+Words associated to topic 1525: 
+[list([('testing', 0.04018634174320864), ('tests', 0.030160347790555524), ('test', 0.02830269371304713), ('labs', 0.014350174973523545), ('kits', 0.014259189299344), ('tested', 0.012821490581973466), ('samples', 0.0061594970325339555), ('laboratory', 0.006080367818368313), ('lab', 0.005524497020171567), ('capacity', 0.005426314970469724)])]
+
+Top quotes associated to the same topic: 
+quote 0: Which is what we are. We're not better than anybody, not worse. Just a basketball team.... I've been told by our doctors, medical community, we shouldn't be testing asymptomatic people at this point in California.... We've been told there's not enough tests to do that.
+quote 1: We are training more laboratory staff to help with the process. The limiting resource is the testing supplies. That is a finite resource and we continue to monitor that closely.
+quote 2: It is a privilege to offer testing to residents of New Jersey, where the majority of our 4,000 employees live,
+quote 3: We are not testing just anyone,
+quote 4: So no, we did not offer the tests to the U.S., which would be standard practice,
+
+
+Words associated to topic 1526: 
+[list([('business', 0.016249714512892685), ('businesses', 0.01505608173165713), ('digital', 0.009408489801639037), ('small', 0.008445788348379384), ('industry', 0.007912791502976524), ('cloud', 0.007798508691261289), ('companies', 0.006720988087603245), ('clients', 0.006698800419191708), ('customers', 0.005477102676409918), ('company', 0.00516838827965538)])]
+
+Top quotes associated to the same topic: 
+quote 0: I went shopping today and there was no toilet paper,
+quote 1: Mobily has the secure, comprehensive, and flexible SAP customer experience solutions to deliver on its strategy and take Saudi Arabia's telco innovation to the next level.
+quote 2: Small businesses are the backbone of regional economies, and it is critical we make available assistance that can help them.
+quote 3: I don't know very many other businesses where you walk in and either one or both owners is there all the time, describing the process to you and telling you the story of the business,
+quote 4: This will have a huge impact on our industry,
+
+
+Words associated to topic 1527: 
+[list([('quarantine', 0.052728170413857904), ('selfquarantine', 0.020170438815771585), ('quarantined', 0.018028444335784894), ('14', 0.00912359869721522), ('days', 0.005461377582703424), ('quarantines', 0.00504372671547138), ('home', 0.0046923722497353906), ('symptoms', 0.0044887768002645845), ('contact', 0.004367178767198381), ('selfquarantined', 0.0039560630149236805)])]
+
+Top quotes associated to the same topic: 
+quote 0: Making the most of this quarantine by spending some quality time with my family... Everyone, please take the necessary precautions. Take care. Stay safe. Love, MD.
+quote 1: We were just trying to come up with some lyrics about the quarantine.
+quote 2: Day Four self quarantine.
+quote 3: Damn I got fired on my day off #QuarantineAndChill,
+quote 4: We continue to keep them in quarantine for the prescribed period and will thereafter initiate the process of reunifying them with the community.
+
+
+Words associated to topic 1528: 
+[list([('movie', 0.021889176544205944), ('film', 0.020893023568052504), ('films', 0.014115828403098924), ('movies', 0.009159944138163047), ('actors', 0.007230579146518053), ('actor', 0.006687191254738886), ('theater', 0.006529755345664317), ('theaters', 0.006217151737852543), ('cinema', 0.006010659277352299), ('disney', 0.005436318658364001)])]
+
+Top quotes associated to the same topic: 
+quote 0: As of [ March 13 ], all filmmakers are still participating in this year's FFF,
+quote 1: Period dramas are expensive so we will need some big names to sell the film,
+quote 2: This is a unique and exceedingly rare circumstance where theaters have been required to close nationwide for the greater good.
+quote 3: It's definitely changing I think, conversation has started and hopefully more films like this [ will be written ]. I think they are, when we were over in Toronto there was Vita and Virginia as well. We'd love more films -- but we'll see.
+quote 4: Through these absolutely unprecedented and evolving times, one thing will not change, and that is Cinemark's dedication to its team members and moviegoers,
+
+
+Words associated to topic 1529: 
+[list([('coronavirus', 0.039676144822284314), ('spread', 0.0082187760663894), ('corona', 0.0042493719898716595), ('outbreak', 0.004189815937377092), ('novel', 0.0038051848378285865), ('pandemic', 0.003588081477435773), ('slow', 0.0030208453863352657), ('crisis', 0.0029586261382260016), ('measures', 0.002689532361653566), ('health', 0.0025809238144969345)])]
+
+Top quotes associated to the same topic: 
+quote 0: And we can ALL do our part to help stop the spread of coronavirus.
+quote 1: We are saying this repeatedly that you can save yourself from coronavirus.
+quote 2: In everything we're doing today, the coronavirus has to be a consideration.
+quote 3: a really fragile situation that can be broken by a virus like coronavirus,
+quote 4: I oppose the bill because I believe that the most precious commodity, the most precious resource that our educators is time. When you look at 2 minutes a day, which equates to 40 minutes per month, which is equivalent to six hours per calendar school year, that's almost the equivalent of one full school day,
+
+
+Words associated to topic 1530: 
+[list([('court', 0.029321223921904272), ('trial', 0.015862571172545675), ('jury', 0.011344054145766664), ('justice', 0.01064970057811388), ('case', 0.009753481545894074), ('defendants', 0.009208514418497262), ('judge', 0.008833983811771938), ('courts', 0.008664837464820479), ('appeal', 0.00783484791842952), ('lawyers', 0.007446332876638655)])]
+
+Top quotes associated to the same topic: 
+quote 0: The reason we filed this case is because we don't want it to happen to anyone else again,
+quote 1: agreed to plead guilty to the three felony offenses,
+quote 2: vainglorious soap opera litigation,
+quote 3: disagrees with the court's reasoning and will appeal its decision.
+quote 4: That 1st, 2nd and 3rd Respondents would not be prejudiced if this application is granted and it is in the interest of Justice to grant this application
+
+
+Words associated to topic 1531: 
+[list([('drug', 0.018334282850021418), ('cancer', 0.017675186278104098), ('drugs', 0.015953551708623705), ('cells', 0.007928591693800646), ('clinical', 0.006975384606310675), ('proteins', 0.006472279506661049), ('medicine', 0.006276136168414865), ('medication', 0.0061403004389164375), ('pharmaceutical', 0.0061305690996864325), ('imaging', 0.005915415728654766)])]
+
+Top quotes associated to the same topic: 
+quote 0: The equestrian industry lost not just an exceptional athlete, but an exceptional person, as well as the horse she loved,
+quote 1: As an oncologist, you have to be very optimistic,
+quote 2: there was empty house after empty house, and dandelions pushing up,
+quote 3: there's no magic drug.
+quote 4: What the President was saying is that we're going to look at all of these drugs and we're going to try to get them available in the context of some sort of protocol,
+
+
+Words associated to topic 1532: 
+[list([('vote', 0.031710023777647506), ('election', 0.027462262194277755), ('voting', 0.02386568172462466), ('ballot', 0.016149160334317916), ('polling', 0.014800458349792206), ('elections', 0.014409277378525001), ('voters', 0.014144044708595711), ('ballots', 0.012517235285752663), ('voter', 0.008933125446519757), ('poll', 0.00865956570551868)])]
+
+Top quotes associated to the same topic: 
+quote 0: Employees can pay down their student debt even faster, without the burden of paying additional taxes on the benefit dollars.
+quote 1: Timing is of the essence. Every day spent preparing for in-person voting is a lost opportunity for municipalities to retool their election systems and regain traction with meeting the already heavy demands for absentee ballots,
+quote 2: All of the sudden, when a massive amount of voting machines showed up on eBay, we thought let's buy them. As we show in the movie, there are over 1,000 voting machines at this one vendor. The voting machines were free in one county if you just come and pick them up. That is a voting machine that is still being used in 20 states.
+quote 3: We don't have the infrastructure in place to do it quite frankly, so that's anything from having enough paper to print all the ballots, to making sure that we have prepaid postage, to make sure folks can return their ballot. It's a lot of smaller logistical decisions and preparations that would need to have started weeks ago,
+quote 4: This is the first time these voting systems have been used on a wide scale at polling locations throughout the county,
+
+
+Words associated to topic 1533: 
+[list([('health', 0.02610350522037031), ('public', 0.01853459230426365), ('crisis', 0.00889216490401604), ('system', 0.008650919067398373), ('officials', 0.008479828307523732), ('advice', 0.007465335913866871), ('care', 0.007157881944380899), ('healthcare', 0.0055586551598840895), ('department', 0.004724135649207964), ('experts', 0.004669346267392266)])]
+
+Top quotes associated to the same topic: 
+quote 0: all become public health experts overnight
+quote 1: Our public health system is understaffed and under-resourced and without intervention, it could soon become overwhelmed,
+quote 2: could speed up public health the way Twitter sped up the news cycle.
+quote 3: There is a global health crisis. We recognise that people are suffering, people are sick, people are losing their jobs, businesses are struggling, amid enormous community uncertainty. Things are changing every day and we must adapt.
+quote 4: We fully appreciate that this is going to have a major impact on the health care system,
+
+
+Words associated to topic 1534: 
+[list([('covid19', 0.03876494239724768), ('spread', 0.015210092753065367), ('covid', 0.009459440498598098), ('slow', 0.006762431625959864), ('response', 0.005930953895701077), ('19', 0.005250488295411), ('pandemic', 0.004746323736828192), ('health', 0.00449079265718246), ('fight', 0.004305656082553489), ('prevent', 0.004038237814232128)])]
+
+Top quotes associated to the same topic: 
+quote 0: They were the first country to know about the risk to the world from this virus, and they repeatedly delayed sharing that
+quote 1: The bottom line is this, based on all the information we have, we have two weeks to minimize the spread of COVID-19 and we can only influence that if we are doing what we are being asked to do,
+quote 2: We are making this declaration to reinforce with residents the urgency of this situation and the continued threat that COVID-19 poses to London. We implore each and every Londoner to exercise precautions and take every measure possible to help slow the spread of this virus.
+quote 3: And I think we all need to lock arms and not fight one another but fight Covid-19.
+quote 4: The COVID-19 pandemic will be fought on multiple fronts,
+
+
+Words associated to topic 1535: 
+[list([('masks', 0.07130475638296463), ('mask', 0.036149213108014035), ('n95', 0.017111133806960374), ('gloves', 0.014807101186362779), ('wear', 0.012202247795214798), ('gowns', 0.011035548554818158), ('face', 0.009474059402254044), ('wearing', 0.008542702469853785), ('protective', 0.008327073507921287), ('surgical', 0.008144533604967696)])]
+
+Top quotes associated to the same topic: 
+quote 0: Respected Prime Minister, why did the government allow the export of all these things till March 19 contrary to WHO's advice to keep sufficient stock of ventilators and surgical masks. Which forces encouraged these games? Isn't this a criminal conspiracy,
+quote 1: On the flight from Singapore to Manila, I no longer wear a mask. It seems obvious by now that the danger lurks elsewhere: in all the people handling your passport and boarding passes, in the fingerprint sensors at immigration... If Singapore was all about planning and preparation, the mood in Manila is one of shock and fear... Eschewing a mask has become a status symbol, marking the healthy from the unhealthy, the strong from the weak. In the wealthiest parts of Manila, people's faces are bare.
+quote 2: Some of us bought masks... 200 Bangladeshi taka [ nearly $3 ] each,
+quote 3: Obviously, I've been a leader at this level for a few years, but I wanted to come in and talk to Ty about it early when I first got here,
+quote 4: There may be a day when we change our recommendations-particularly for areas that have large spread going on-about wearing cotton masks,
+
+
+Words associated to topic 1536: 
+[list([('months', 0.02964350542156254), ('weeks', 0.02954562197557741), ('three', 0.013720274384198757), ('days', 0.013682143622571839), ('week', 0.012554708661184605), ('six', 0.011738360033166575), ('two', 0.01093108388380427), ('next', 0.010356387202338313), ('month', 0.009680411816313406), ('hours', 0.007928751291273331)])]
+
+Top quotes associated to the same topic: 
+quote 0: I think 24 months is actually a really good place to land,
+quote 1: a lot sooner than three or four months, that somebody was suggesting.
+quote 2: From the start they thought it might be about 16 weeks and we started just after January 6,
+quote 3: I can only speak to the solution Apcela offers, of course, but I'd say it's a matter of days to weeks, but certainly not months,
+quote 4: Do they have a 6-month head start on you?
+
+
+Words associated to topic 1537: 
+[list([('fight', 0.03418809601927692), ('boxing', 0.017251046385941996), ('fights', 0.013270035681493842), ('ufc', 0.01283560118620751), ('fighters', 0.012075889585965942), ('fighter', 0.011933352747468465), ('fury', 0.00963182821445612), ('tyson', 0.009547085304844), ('fighting', 0.0071478580248925715), ('heavyweight', 0.006826398067153158)])]
+
+Top quotes associated to the same topic: 
+quote 0: You know Pacquiao flies in and if Danny mistimes him, he is probably on the other end of a big combination. But, if Danny times him Pacquiao is on his ass. It's one of those fights where I think the level of success could be measured in both guys. They could both have a certain level of success. Both guys are mentally strong which I love. I love guys who are willing to go into the fire a little bit and be willing to go through what they have to go through to win a fight. I think it has all the ingredients to make a good fight,
+quote 1: We got a guy named Ben Egli and Ben Egli is a local guy, but he's got an MMA record of 23 and 3, and he was King of the Cage champion and has traveled all over. He's been on the tip of Sean Shelby's tongue for about two years now. He's very, very good, he is stepping in. He's a black belt, he's going to take on Jake Ellenberger and Ben Egli is replacing Carlos Condit, and that's a very good fight. I mean, just for the MMA perspective. A lot of us didn't even know how good of a grappler Jake was until he did a Submission Underground taking on Diego Sanchez whose a well-decorated established black belt. Jake won that match so he's got a lot of people's respect, he's got a hard one here. He got dealt from the bottom of the deck with Ben Egli. Ben Egli is kind of long and gangly he's only lost one match that was to the great Craig Jones. So for MMA fans, I think everybody would like to see Jake Ellenberger compete some more.
+quote 2: I believe that John Ryder's a really good fighter and I believe he'll give anybody in the division an absolute fight,
+quote 3: The boxing audience is definitely still very important to Showtime. We're going to do everything we can to continue to serve them to the maximum extent that we can.
+quote 4: It's all positive in my eyes. When you've got somebody as big as Conor talking to you or calling you names. He can call me whatever he wants. What's the worst thing that can happen. He wants to fight me. Let's do it. We can have the Irish American vs the true Irishman.
+
+
+Words associated to topic 1538: 
+[list([('airlines', 0.027134794463923122), ('flights', 0.023280010997890996), ('flight', 0.01886483649829098), ('aviation', 0.015987019775432806), ('airline', 0.013255969209246246), ('plane', 0.013165231710887572), ('flying', 0.011632064632147119), ('airport', 0.011038281954471776), ('aircraft', 0.010560910613581463), ('air', 0.009075955023616166)])]
+
+Top quotes associated to the same topic: 
+quote 0: The resources to cover other airlines going bust are now very limited. New regulations are urgently required.
+quote 1: Airlines are key channels in the economy, you've got to have them,
+quote 2: worse than 9/11 for the airline industry -- they're almost ground to a halt.
+quote 3: And obviously we're going to need two airlines, two big airlines... we need the companies that were there before that were the key underpinning of our economy to still be there.
+quote 4: [ This measure ] will continue to help ease the heavy economic burden that airlines are suffering, and will bring them a certain security during the summer season.
+
+
+#------------------------------------# 
+Month 4 
+
+Words associated to topic 2234: 
+[list([('students', 0.022546033274334795), ('school', 0.015311986548696135), ('schools', 0.011289180341199748), ('learning', 0.010430655266886394), ('teachers', 0.009087280543156816), ('education', 0.008929029384422358), ('student', 0.0058773215018292115), ('online', 0.005505237705150569), ('classes', 0.005168355906911737), ('campus', 0.004292363380316527)])]
+
+Top quotes associated to the same topic: 
+quote 0: I'm not sure it's my place to to assume the steps taken by the state or not taken by the state is an impingement on an individual's right to vote. That's what I'm struggling with,
+quote 1: That spot helped some of the piranhas backstage bury me, that's what I've heard from a few very credible sources, that they were running to Vince, and Vince saw it and was freaking out... that night as great as it was, Vince got the wrong idea. I knew I was really fucked, it was first match of the Royal Rumble, a massive pay-per-view at the Garden, I walk through the gorilla, there's nobody there when I'm done with the match... Everybody was gone. No one wanted to be near me or see me or talk to me. Nobody. I'm like, `oh boy' . Because even though it was my first night in the company, I know how things work.
+quote 2: This is just to get the word out to people that the course is being monitored,
+quote 3: We hope that we can address joint concerns and resolve outstanding differences quickly to meet the needs of lecturers and the UC community who depend on them.
+quote 4: This funding ensures resources are available to support students as they continue on the path to earning a degree.
+
+
+Words associated to topic 2235: 
+[list([('hospitals', 0.011461061833001876), ('hospital', 0.009946610611808602), ('health', 0.009181290115631208), ('nurses', 0.008372991773414672), ('patients', 0.00836211535209788), ('doctors', 0.007610564257278735), ('medical', 0.006500393842371797), ('public', 0.0063925809478819024), ('care', 0.006309426579066745), ('healthcare', 0.004923047360506262)])]
+
+Top quotes associated to the same topic: 
+quote 0: Our travel partner community is hurting, and help can't come too soon.
+quote 1: the allegation of libel is wholly ill-conceived, both as written words and in a factual context
+quote 2: We have to take seriously the advice of Public Health. It's really not the time to socialize.
+quote 3: Inequities exist across the U.S. and across the world, and it's posed a challenge for public health agencies, [ which ] have to address those issues and ensure all individuals, regardless of race, socioeconomic status, income, or educational attainment have access to quality health-related resources.
+quote 4: Each nurse has so many patients that by the time they come to check on their next one, there is a chance that patient may not have a pulse anymore.
+
+
+Words associated to topic 2236: 
+[list([('she', 0.03080892614885467), ('her', 0.02907418039310148), ('shes', 0.020637066878463745), ('herself', 0.004629595680915737), ('was', 0.002925212472326508), ('shell', 0.0023834063824665274), ('woman', 0.0023598721376882226), ('life', 0.002351053868431412), ('person', 0.002313997116589706), ('amazing', 0.002240380057431471)])]
+
+Top quotes associated to the same topic: 
+quote 0: She has her own opinions, I respect those and no comment,
+quote 1: Susie just can't handle hard things,
+quote 2: Nia Sharma is very energetic also hypered at times. Her energy level is too high. She keeps the energy on the sets high. She loves to finish off her scenes quickly. It is good to work with such people. Also, she is very good with her lines and doesn't forget. So, I also have to remember the lines to match up to her level,
+quote 3: I got injuries and other players took the chance presented to them. Looking back I think I wasn't good enough to make it, but obviously injuries never help. It was just one of those things.
+quote 4: She was the one who got us to be in the position to be an affiliate of the Smithsonian,
+
+
+Words associated to topic 2237: 
+[list([('church', 0.019182343675231216), ('god', 0.01501199293689863), ('faith', 0.010803848736624478), ('worship', 0.010717051441929642), ('prayer', 0.009667553809364312), ('churches', 0.009116322781870296), ('religious', 0.008202082305934642), ('prayers', 0.007817609697843956), ('pray', 0.007720286772324859), ('praying', 0.0070885097064295795)])]
+
+Top quotes associated to the same topic: 
+quote 0: sense of hope and grace,
+quote 1: Half of church is a social thing -- getting together with like-minded people and sharing the Lord with them is a personal thing. Separation like this is difficult, but the new technologies allow us to be as close as we really dare be without completely changing the experience.
+quote 2: whose Sanskrit name literally means `Do not fear' -- something Jesus said many times.
+quote 3: I was ready with a Bible and cross on my table. I watched it on my phone in my room. I felt there was something missing in the online Masses,
+quote 4: permit `a Papist or Infidel' or `pagan, deists, and Mahometans
+
+
+Words associated to topic 2238: 
+[list([('testing', 0.031595030002561274), ('tests', 0.02282443090808851), ('test', 0.021274112426139087), ('tested', 0.012958787909871677), ('positive', 0.008249244343808467), ('labs', 0.007926564469664658), ('results', 0.00640096654001461), ('samples', 0.00605898196708718), ('capacity', 0.004922344727859727), ('lab', 0.004707508583508109)])]
+
+Top quotes associated to the same topic: 
+quote 0: The Obama-Biden administration even wrote a literal playbook for pandemic response, but unfortunately Trump's administration left it on the shelf. Now we have more coronavirus cases than any other country.
+quote 1: No test drives, no coming into the dealership, it would be similar to ordering food, I would assume, where they drop it off at the front porch, you have no interaction with the individual.
+quote 2: (We will) have a bunch of mocks that we go through together,
+quote 3: Every country is fishing from the same pond. We're not at the front of that queue because we don't have much of a diagnostic industry in the UK, certainly not one that can produce the kits for the high capacity platforms. And we were late to market because the UK government decided to try other things before they decided `Oh we better do some testing' and by that time, a lot of the companies had already committed their resources in the supply chain to other countries.
+quote 4: We're only accepting orders through the apps right now,
+
+
+Words associated to topic 2239: 
+[list([('virus', 0.038595722151016316), ('spread', 0.00941497521679236), ('spreading', 0.004577119999319285), ('viruses', 0.004169321825547261), ('this', 0.00300844912640853), ('stop', 0.002663960767768901), ('deadly', 0.002411176455655425), ('we', 0.002224532000097756), ('contracting', 0.0021834062016010047), ('discriminate', 0.002124725271050651)])]
+
+Top quotes associated to the same topic: 
+quote 0: At this point, we're just transporting the virus.
+quote 1: Let me again thank everyone across the country who is playing their part -- your efforts will continue to be really vital in the weeks ahead as we fight this battle against coronavirus.
+quote 2: Speaking for myself, but hearing a lot of other guides saying similar things... None of us want to be responsible for bringing this virus into our communities,
+quote 3: We are absolutely overwhelmed by the amount of work we are getting due to the virus. It's unbelievable that people are ordering so many things like TVs and games and flatpacks.
+quote 4: There is a small-D democratizing aspect of a virus. A virus can hit everyone,
+
+
+Words associated to topic 2240: 
+[list([('masks', 0.04636125797856952), ('mask', 0.03015033816889919), ('wearing', 0.015593316125082088), ('wear', 0.013963820120047356), ('face', 0.012829886144476896), ('n95', 0.012359226737744991), ('gloves', 0.007845824611196452), ('cloth', 0.007579545172064388), ('coverings', 0.007264633683840824), ('covering', 0.0059273109126982745)])]
+
+Top quotes associated to the same topic: 
+quote 0: Wearing a non-medical mask is an additional measure that you can take to protect others around you,
+quote 1: And if everyone wears a mask, no stigma is attached.
+quote 2: Alternative regulations supported by big tech companies and opposed by impacted communities do not provide adequate protections -- in fact, they threaten to legitimize the infrastructural expansion of powerful face surveillance technology,
+quote 3: Make sure what were adopted as temporary restrictions don't mature into permanent restrictions.
+quote 4: Seeing whether I need to put additional protections in as we speak.
+
+
+Words associated to topic 2241: 
+[list([('banks', 0.015174212482280644), ('loan', 0.015144065149365813), ('loans', 0.013304811731013876), ('debt', 0.011979641433379457), ('credit', 0.01124530823366966), ('market', 0.010093920008852786), ('bank', 0.007598550739659411), ('lenders', 0.007526739381803949), ('stock', 0.00715059228118993), ('investors', 0.006753407777524518)])]
+
+Top quotes associated to the same topic: 
+quote 0: It's critical that we ensure these countries are well-equipped to detect, test, isolate, and treat cases, and identify contacts,
+quote 1: As stock prices rebound, short sellers will be buying stock side-by-side with long shareholders helping drive bank stock prices higher and higher.
+quote 2: Recall that prior to the COVID-19 and oil price shocks, the government's balance sheet was healthy. Further, given credit market access at historically low rates, and looking to historical experience, suggests that the government could undertake additional significant borrowing if required.
+quote 3: Given our strong credit rating and low debt ratios, Cayman is a good credit risk for banks. Indeed, I have been approached by an international bank willing to provide funding for any borrowing we may need to undertake. That sets us apart from just about every other country in our region.
+quote 4: We are looking at that and what it would mean for crossover accounts as some holders of investment-grade credit would no longer hold it,
+
+
+Words associated to topic 2242: 
+[list([('pandemic', 0.03399292380173917), ('pandemics', 0.007472847271444705), ('global', 0.007408892375475449), ('funding', 0.004709451209285551), ('world', 0.0034923554078047), ('health', 0.003372138884407077), ('during', 0.0028768931763020625), ('middle', 0.002793021034848601), ('this', 0.0026957889889542403), ('response', 0.0026155810929919)])]
+
+Top quotes associated to the same topic: 
+quote 0: The pandemic is just an extraordinary situation for us.
+quote 1: I think the pandemic is driving a lot of this,
+quote 2: were all very complimentary of the work Moseley has done in their counties.
+quote 3: but, unfortunately, the pandemic made that impossible.
+quote 4: is at an interesting juncture, not least because of the ramifications of the current pandemic
+
+
+Words associated to topic 2243: 
+[list([('music', 0.02343830377078314), ('song', 0.019754047369152993), ('songs', 0.012836956335747647), ('album', 0.012475051760405581), ('band', 0.007107724761271476), ('musicians', 0.005410784851175149), ('sing', 0.0051618093861670504), ('artists', 0.005073267017046629), ('record', 0.0036492700308453615), ('lyrics', 0.0036464165573273036)])]
+
+Top quotes associated to the same topic: 
+quote 0: I've got some other songs written and recorded but I'll let this one settle for now and see how it is received.
+quote 1: Pascal is going to start contacting bass clubs and tournament leaders soon. Catch-and-release mortality is likely a relatively small factor driving bass population changes, but it is one of the few things we may be able to have an impact on.
+quote 2: Also, it being a university city, it has plenty of venues for music. I think there is a creative gene within Mancunians.
+quote 3: Were the BPI, having been so roundly ignored, to step away from UK Music, the hard won achievements of UK Music to date would be at risk. Should we allow the ambitions of a disgraced former MP and the covert machinations of a few unknown industry persons, blind to the optics of their choice, to put at risk the achievements of a body that has, until now, managed to work so very successfully on behalf of all of us?
+quote 4: Levi's approached a bunch of us artistes to provide home entertainment and just encourage and uplift others through music,
+
+
+Words associated to topic 2244: 
+[list([('coronavirus', 0.043841234483654845), ('novel', 0.009749909664375113), ('spread', 0.005769228188731799), ('crisis', 0.004349996427184008), ('against', 0.004074645944800306), ('mismanaging', 0.003980947082090501), ('defeat', 0.0038491311345339335), ('fight', 0.0036309344369568003), ('pandemic', 0.0036184908459074593), ('covering', 0.0032922616052748783)])]
+
+Top quotes associated to the same topic: 
+quote 0: for the duration of the coronavirus crisis
+quote 1: I do hope by the time we get there that we will well see that curve, that bending in the curve... There's some indication that that might be going on, particularly in New York.
+quote 2: This will be in accordance with the Ebonyi Coronavirus and Other Dangerous (Infectious) Disease and Related Matters Law 06 of 2020,
+quote 3: The virus wasn't that severe here in January, but at that time it was very serious in China.
+quote 4: should assume everyone has [ the novel coronavirus ].
+
+
+Words associated to topic 2245: 
+[list([('quarantine', 0.06434533884701615), ('quarantined', 0.013789927939533495), ('selfquarantine', 0.0098348529004882), ('14', 0.0063650150225701635), ('14day', 0.005562485491573089), ('isolation', 0.005031046875497857), ('days', 0.004457354130531473), ('quarantining', 0.003963751810613574), ('home', 0.0036752899690481373), ('under', 0.0036591061352425173)])]
+
+Top quotes associated to the same topic: 
+quote 0: Scammers are leveraging the COVID-19 pandemic to steal your money, your personal information, or both,
+quote 1: We made the choice to quarantine together and have been together for 27 days taking every precaution.
+quote 2: It's day 26 of quarantine and we're breaking out dresses from 14 years ago,
+quote 3: I flew out to Chicago right when everything was starting to hit with the quarantine stuff... and it kind of just became a thing where we've always gotten along really well, and just had really good chemistry.
+quote 4: Nobody should think they they are exempt. At the end of the day, this is about saving lives.
+
+
+Words associated to topic 2246: 
+[list([('economy', 0.03620296185801682), ('recession', 0.024005519579540478), ('economic', 0.01702376555896845), ('growth', 0.008617152222050931), ('global', 0.0062407782988704325), ('financial', 0.006101215952479429), ('depression', 0.0055046127092278395), ('economies', 0.004688437891505763), ('recovery', 0.0046482212169529575), ('gdp', 0.0044274164505783455)])]
+
+Top quotes associated to the same topic: 
+quote 0: (We) will require a level of hospital capacity we've never seen... never even conceived of,
+quote 1: The good news is, if the president starts to do the right thing here, and starts to do what I think in his heart he wants to do, which is get the economy up and running by the end of April, or May 1st, then I think there's time for the economy to make a recovery by the let's say late summer, early fall,
+quote 2: We built the greatest economy in the world,
+quote 3: This could be a very prolonged recession that lasts a few years. It's unlikely it'll be a V-shaped recovery.
+quote 4: This will end up being the Greater Recession -- or whatever you want to call it.
+
+
+Words associated to topic 2247: 
+[list([('cricket', 0.033226887626416575), ('dhoni', 0.011843883914324085), ('ipl', 0.011701175750526602), ('bowling', 0.008542015587934245), ('india', 0.008204322115933315), ('pakistan', 0.0077064110190034375), ('cup', 0.007189347307202946), ('played', 0.005819647549483518), ('t20', 0.005374250141634294), ('indian', 0.005041456750668993)])]
+
+Top quotes associated to the same topic: 
+quote 0: You need someone to train with while we've got this bit of a break so that we come back fit and healthy.
+quote 1: I said yes because the song is very beautiful, and it is a very soulful song. I have liked Vishal (the singer) since Kabir Singh's time because since then, he has gotten very famous. So when I heard the song, I could picture myself in the song and then I got very lucky with the team. Ali Fazal was a treat to work with, and the director Gurmmeet Singh is my favourite from the shoot because he is a sweetheart and he is really very sweet. The entire DOP and director team is that of Mirzapur, and there is Ali too, who is a part of the series, so for me, I got really lucky to be a part of such a strong team, and of course, Vishal is very talented and one of the top singers today. So yea, der aye, durust aye (smiles).
+quote 2: He is the bowler of my generation. The action, the pace, the way he can swing it, the skill. If you wanted to be a bowler, you'd want that sort of ability
+quote 3: We have been telling families to organise a scavenger hunt in their backyard, or a game of cricket is always a classic.
+quote 4: There haven't been any proactive discussions from Cricket South Africa's side about what would happen. And obviously, I don't know how happy Essex would be if there was a three-month tour during the English summer, to just release me and be like, yep, you can go. So I think my main responsibility lies for the foreseeable future with Essex.
+
+
+Words associated to topic 2248: 
+[list([('training', 0.016990752912303023), ('gym', 0.015294794583092885), ('fitness', 0.013006556607132961), ('workout', 0.012930818975511129), ('yoga', 0.012040452746163895), ('workouts', 0.011410704436282655), ('exercise', 0.009154068713913957), ('exercises', 0.008696431146652804), ('body', 0.00819146435144975), ('weights', 0.007140006820861874)])]
+
+Top quotes associated to the same topic: 
+quote 0: appear to be complying.
+quote 1: I do yoga and it just came into my mind. I don't think. I just feel.
+quote 2: The most important thing, is to keep working on our fitness now and be ready
+quote 3: ' #NikeLivingRoomCup - Week One. 117 Abs in 45 seconds. Not bad for a Sunday,
+quote 4: Whenever I get a chance I like to go outside and keep fit, it's all about staying active when you can. Frank [ Lampard ] always wants to keep up on our toes and keep us in shape.
+
+
+Words associated to topic 2249: 
+[list([('vote', 0.037544452119223), ('voting', 0.03355436191349293), ('ballots', 0.028718641620289913), ('election', 0.02812775879284085), ('ballot', 0.02122119751724194), ('mail', 0.019618008530949676), ('voters', 0.019047207716922417), ('voter', 0.018965485614869607), ('elections', 0.018167645451707383), ('absentee', 0.016480723341884076)])]
+
+Top quotes associated to the same topic: 
+quote 0: The likelihood of distressed cargoes, increased freight rates, force majeures, strains on storage capacity, VLCC availability will be combining in placing additional downside pressures on petroleum prices,
+quote 1: But if you're a senior citizen and if you're somebody that needs it, I'm all for it. But they have to be very careful, because you know the things with bundling and all of the things that are happening with votes by mail where thousands of votes are gathered, and I'm not going to say which party does it, but thousands of votes are gathered and they come in and they're dumped in a location, and all of the sudden you lose elections that you think you're going to win. I won't stand for it. Well, we're going to find out about the proof, because you're going see what's going on. And I'm not going to stand for it.
+quote 2: Many voters, especially lower-income voters, do not have postage stamps because they do not use them or cannot afford to buy a book of stamps just for elections,
+quote 3: Rural parts of the country benefit tremendously from this kind of system,
+quote 4: mail ballots -- they cheat, okay? People cheat. Mail ballots are a very dangerous thing for this country, because they're cheaters.
+
+
+Words associated to topic 2250: 
+[list([('cooking', 0.017396098932725194), ('bread', 0.01693008008956929), ('cook', 0.016679023562850157), ('eat', 0.014216887969625282), ('pasta', 0.013186397565032848), ('chicken', 0.013139211504280076), ('recipe', 0.01143292486222496), ('cake', 0.011364085816287112), ('baking', 0.010810586303516495), ('sauce', 0.010189381903460942)])]
+
+Top quotes associated to the same topic: 
+quote 0: Keeping daily anxiety in check as best I can: ✅ Taking this s *** hour by hour: ✅ ✅ ✅ #saferathome: ✅ ✅ ✅ ✅ ✅ ✅ ✅
+quote 1: There's no need to have tons of dried pasta on hand, as most pasta recipes are as simple as water and flour or eggs and flour,
+quote 2: What a lovely gesture! Apart from being a great director you proved yourself to be a good cook also,
+quote 3: I think if you were to have tea with the Queen, you would find she would go more traditional, so that would be ham and mustard, salmon, or cucumber. And always crusts off,
+quote 4: I really wanted to use my skill set to do more than make rich people food,
+
+
+Words associated to topic 2251: 
+[list([('inmates', 0.027359912436015085), ('prison', 0.02539521001234273), ('jail', 0.017383248325734256), ('prisons', 0.01695244495572769), ('detention', 0.015822219949217068), ('prisoners', 0.014474023836607517), ('release', 0.012330309186336092), ('incarcerated', 0.011759193637434483), ('detainees', 0.010035868187157317), ('jails', 0.008010946208520752)])]
+
+Top quotes associated to the same topic: 
+quote 0: Except your `jail' is a warm home, with access to soap, hot food, and you're not likely to contract a deadly virus because you're stuck in a 6x8 concrete cell with people who could potentially infect you with #Covid 19,
+quote 1: As a precaution, 35 inmates that were being held in the infected inmate's housing unit have been isolated to one location,
+quote 2: Just on the face of it, I am encouraged that he is hearing us,
+quote 3: We are letting inmates know we are concerned about their health and will continue to make adjustments in our protocols as needed to ensure their safety.
+quote 4: The whole atmosphere of a prison, after all, is more geared towards hothousing the virus, rather than shielding the prisoner from infection.
+
+
+Words associated to topic 2252: 
+[list([('clubs', 0.03498582061794309), ('club', 0.024169108167054924), ('players', 0.013905003428898652), ('footballers', 0.010510029430401866), ('league', 0.008036738757520926), ('premier', 0.0069069527105953795), ('football', 0.006523781206401168), ('wages', 0.006169576902030572), ('pay', 0.005237483680542741), ('paid', 0.0046333170516318235)])]
+
+Top quotes associated to the same topic: 
+quote 0: We have heard about clubs outside Turkey decreasing salaries of players and all that; I feel that's their decision but we have not heard anything like that here,
+quote 1: But ultimately it's about money, clubs need some sort of revenue to start coming in as soon as possible in reality.
+quote 2: Where there is justification we will allow the laying off of people but not in this situation, where we clearly have Mopani fishing for reasons to lay people off,
+quote 3: I think they stepped outside that box when they made that decision and now they've gone back in it again. They left themselves open for criticism, they got plenty of it and they still are getting it, but I think it was big of them and brave of them to reverse that decision.
+quote 4: We're desperately hoping the we can finish this season because we are second in the (National League North) table, just two points behind (leaders York City) with two games in hand to come. Obviously there are far bigger things than football at this moment in time though.
+
+
+#------------------------------------# 
+Month 5 
+
+#------------------------------------# 
+Month 6 
+
+#------------------------------------# 
+Month 7 
+
+#------------------------------------# 
+Month 8 
+
+#------------------------------------# 
+Month 9 
+
+#------------------------------------# 
+Month 10 
+
+#------------------------------------# 
+Month 11 
+
+#------------------------------------# 
+Month 12 
+

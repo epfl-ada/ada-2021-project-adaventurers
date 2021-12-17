@@ -35,6 +35,12 @@ def data_loader(path,limit=0,chunksize_=10000,thrs = 100000):
             # Chunk loading
             print(f"    Loading... {i/limit*100:.2f} %")
 
+        # We don't want to read it all as long as we do not have the final code
+        if i>=limit and limit!=0:
+            break
+
+
+
     # Initialize the DataFrame columns with first chunk
         if i == 0:
           df_quotes = pd.DataFrame(chunk)
@@ -42,9 +48,7 @@ def data_loader(path,limit=0,chunksize_=10000,thrs = 100000):
           # Concatenation of new chunk into the DataFrame
            df_quotes = pd.concat([df_quotes,chunk])
 
-        # We don't want to read it all as long as we do not have the final code
-        if i>=limit and limit!=0:
-            break
+
 
 
     df_quotes = clean_data(df_quotes)
@@ -62,7 +66,7 @@ def consistency(df_quotes, thrs):
 
     for i,size_month in enumerate(sizes):
         limit_quotes = thrs
-        
+
         if size_month > limit_quotes:
 
             n_to_drop = size_month-limit_quotes

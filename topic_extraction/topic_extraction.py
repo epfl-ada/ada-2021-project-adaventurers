@@ -5,9 +5,9 @@ import pandas as pd
 #--------------------------------------------------------#
 # Initialize
 
-year = 2016
-limits = 8
-chunk_ =  100
+year = 2015
+limits = 20
+chunk_ =  1000
 threshold = 100000
 
 files_to_load = f"quotes-{year}.json.bz2"
@@ -18,9 +18,10 @@ data_year = pd.DataFrame()
 
 print("\nBeginning: Loading File\n")
 
-data_year = data_loader("data/"+files_to_load, limit = limits, chunksize_ = chunk_,thrs = threshold)
+data_year = data_loader("../data/"+files_to_load, limit = limits, chunksize_ = chunk_,thrs = threshold)
 
 print("Done: Loading File\n")
+
 
 #--------------------------------------------------------#
 # Bert Topic Analysis
@@ -37,6 +38,9 @@ data_year.sort_values(by=['date'], inplace=True, ascending=True)
 data_year["topic_number"]=topics_assignation
 data_year["topic_prob"]=prob_assignation
 
+if(len(topics_assignation)==len(data_year) and len(prob_assignation)==len(data_year)):
+    print("all quotes treated")
+
 
 print("\nExample of the format")
 print(data_year.columns)
@@ -51,8 +55,8 @@ print("\nDone: Bert Topic Analysis\n")
 # Saving Topics
 
 print("Saving Data:")
-data_year.to_pickle(f"results/bertopic/{year}_quotes_with_topics_{len(data_year)}.pkl")
-topic_list.to_pickle(f"results/bertopic/{year}topics_by_month_{len(data_year)}.pkl")
+data_year.to_pickle(f"../results/bertopic/{year}_quotes_with_topics_{len(data_year)}.pkl")
+topic_list.to_pickle(f"../results/bertopic/{year}topics_by_month_{len(data_year)}.pkl")
 print("Done savings Data")
 
 #--------------------------------------------------------#
